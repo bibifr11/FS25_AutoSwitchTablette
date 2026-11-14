@@ -1,4 +1,6 @@
-# FS25 AutoSwitch Tablette
+![AutoSwitch Tablette](docs/bandeau.png)
+
+# <img src="docs/icone.png" width="64" align="center"> FS25 AutoSwitch Tablette
 
 🇫🇷 Terminaux tablette pour AutoSwitch (Farming Simulator 25) : un terminal dans la cabine, inspiré de celui de la marque du tracteur. Mod à part : nécessite AutoSwitch. Courseplay et FarmPilot sont conseillés (leurs pages ne s'affichent que s'ils sont installés).
 
