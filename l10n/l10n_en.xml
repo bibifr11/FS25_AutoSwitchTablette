@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <text name="vtpas_decimal" text="."/>
+        <text name="input_AS_TERMINAL" text="Terminal: show / hide"/>
+        <text name="input_AS_TERMINAL_TOUCH" text="Terminal: touch mode (cursor)"/>
+        <text name="input_AS_FKEY1" text="Function key 1 (armrest)"/>
+        <text name="input_AS_FKEY2" text="Function key 2 (armrest)"/>
+        <text name="input_AS_FKEY3" text="Function key 3 (armrest)"/>
+        <text name="input_AS_FKEY4" text="Function key 4 (armrest)"/>
+        <text name="vtpas_tm_auto" text="AUTO"/>
+        <text name="vtpas_tm_manual" text="MANUAL"/>
+        <text name="vtpas_tm_b_guide" text="GUIDANCE"/>
+        <text name="vtpas_tm_b_more" text="MORE"/>
+        <text name="vtpas_tm_b_back" text="BACK"/>
+        <text name="vtpas_tm_b_lift" text="HITCH"/>
+        <text name="vtpas_tm_b_on" text="ON / OFF"/>
+        <text name="vtpas_tm_b_set" text="SETUP"/>
+        <text name="vtpas_tm_c_tabMap" text="Map"/>
+        <text name="vtpas_tm_c_tabHitch" text="Hitch"/>
+        <text name="vtpas_tm_c_tabCam" text="Camera"/>
+        <text name="vtpas_tm_c_cpSave" text="Save"/>
+        <text name="vtpas_tm_c_cpSaved" text="Course saved: %s"/>
+        <text name="vtpas_tm_c_cpSaveErr" text="Could not save the course"/>
+        <text name="vtpas_tm_c_cpNoCourseSave" text="No course to save"/>
+        <text name="vtpas_tm_c_cpReset" text="RESET"/>
+        <text name="vtpas_tm_c_rcLights" text="Lights"/>
+        <text name="vtpas_tm_c_rcCc" text="Config. controls"/>
+        <text name="vtpas_tm_c_rcRemotes" text="Remotes"/>
+        <text name="vtpas_tm_c_camOff" text="REAR CAMERA: OFF (touch to switch on)"/>
+        <text name="vtpas_tm_c_slip" text="Slip"/>
+        <text name="vtpas_tm_c_fuelLevel" text="Fuel level"/>
+        <text name="vtpas_tm_c_engineHours" text="Engine hours"/>
+        <text name="vtpas_tm_c_oilPress" text="Engine oil pressure"/>
+        <text name="vtpas_tm_c_intakeTemp" text="Engine intake temp"/>
+        <text name="vtpas_tm_c_hitchRPos" text="Rear hitch position"/>
+        <text name="vtpas_tm_c_defLevel" text="DEF level"/>
+        <text name="vtpas_tm_c_transTemp" text="Trans oil temp"/>
+        <text name="vtpas_tm_c_hitchFPos" text="Front hitch position"/>
+        <text name="vtpas_tm_c_defTemp" text="DEF temp"/>
+        <text name="vtpas_tm_c_transPress" text="Trans oil pressure"/>
+        <text name="vtpas_tm_c_airBrake" text="Air brake pressure"/>
+        <text name="vtpas_tm_c_voltage" text="System voltage"/>
+        <text name="vtpas_tm_c_ptoR" text="Rear PTO speed"/>
+        <text name="vtpas_tm_c_ptoF" text="Front PTO speed"/>
+        <text name="vtpas_tm_c_workRateAvg" text="Average work rate"/>
+        <text name="vtpas_tm_c_fuelUsed" text="Fuel used"/>
+        <text name="vtpas_tm_c_fuelUsedWork" text="Fuel used at work"/>
+        <text name="vtpas_tm_c_fuelAvg" text="Average fuel economy"/>
+        <text name="vtpas_tm_c_workTime" text="Work time"/>
+        <text name="vtpas_tm_c_flowRetract" text="Retract flow"/>
+        <text name="vtpas_tm_c_flowExtend" text="Extend flow"/>
+        <text name="vtpas_tm_c_engineMode" text="Engine mode"/>
+        <text name="vtpas_tm_c_timer" text="Timer"/>
+        <text name="vtpas_tm_c_menu" text="Menu"/>
+        <text name="vtpas_tm_c_lock" text="LOCK"/>
+        <text name="vtpas_tm_c_unlock" text="UNLOCK"/>
+        <text name="vtpas_tm_c_locked" text="Locked (active)"/>
+        <text name="vtpas_tm_c_unlockedSt" text="Unlocked (inactive)"/>
+        <text name="vtpas_tm_c_lockHint" text="Active: the top arrow raises / lowers it"/>
+        <text name="vtpas_tm_c_lockedWarn" text="Inactive hitch: the top arrow skips it"/>
+        <text name="vtpas_tm_c_rs_lift_up" text="Hitch: Raised"/>
+        <text name="vtpas_tm_c_rs_lift_dn" text="Hitch: Lowered"/>
+        <text name="vtpas_tm_c_rs_on_on" text="Drive: On"/>
+        <text name="vtpas_tm_c_rs_on_off" text="Drive: Off"/>
+        <text name="vtpas_tm_c_rs_fold_in" text="Folding: Folded"/>
+        <text name="vtpas_tm_c_rs_fold_out" text="Folding: Unfolded"/>
+        <text name="vtpas_tm_c_rs_tip_on" text="Tipper: Raised"/>
+        <text name="vtpas_tm_c_rs_tip_off" text="Tipper: Lowered"/>
+        <text name="vtpas_tm_c_rs_cover_close" text="Cover: Closed"/>
+        <text name="vtpas_tm_c_rs_cover_open" text="Cover: Open"/>
+        <text name="vtpas_tm_c_apply" text="APPLY"/>
+        <text name="vtpas_tm_c_sideF" text="front"/>
+        <text name="vtpas_tm_c_sideR" text="rear"/>
+        <text name="vtpas_tm_c_sideB" text="F+R"/>
+        <text name="vtpas_tm_c_colF" text="Front"/>
+        <text name="vtpas_tm_c_colR" text="Rear"/>
+        <text name="vtpas_tm_c_colB" text="Both"/>
+        <text name="vtpas_tm_c_remote" text="Function"/>
+        <text name="vtpas_tm_c_run" text="RUN"/>
+        <text name="vtpas_tm_c_remoteNone" text="Function not set"/>
+        <text name="vtpas_tm_c_liftAll" text="RAISE ALL"/>
+        <text name="vtpas_tm_c_lowerAll" text="LOWER ALL"/>
+        <text name="vtpas_tm_c_drive" text="Drive"/>
+        <text name="vtpas_tm_c_fold" text="Folding"/>
+        <text name="vtpas_tm_c_tip" text="Tipper"/>
+        <text name="vtpas_tm_c_cover" text="Cover"/>
+        <text name="vtpas_tm_c_p2_hours" text="Engine hours"/>
+        <text name="vtpas_tm_c_p2_rate" text="Average work rate"/>
+        <text name="vtpas_tm_c_p2_fuel" text="Fuel used"/>
+        <text name="vtpas_tm_c_p2_fuelWork" text="Fuel used working"/>
+        <text name="vtpas_tm_c_p2_fuelAvg" text="Avg. fuel use working"/>
+        <text name="vtpas_tm_c_p2_time" text="Working time"/>
+        <text name="vtpas_tm_c_tempOut" text="Outside temp"/>
+        <text name="vtpas_tm_c_spreader" text="Spreader"/>
+        <text name="vtpas_tm_c_coolant" text="Coolant temp"/>
+        <text name="vtpas_tm_b_stop" text="STOP"/>
+        <text name="vtpas_tm_back" text="BACK"/>
+        <text name="vtpas_tm_beeps" text="Beeps and alarms"/>
+        <text name="vtpas_tm_theme" text="Theme"/>
+        <text name="vtpas_tm_themeDark" text="Dark"/>
+        <text name="vtpas_tm_themeLight" text="Light"/>
+        <text name="vtpas_tm_cab" text="cab"/>
+        <text name="vtpas_tm_out" text="outside"/>
+        <text name="vtpas_tm_change" text="CHANGE"/>
+        <text name="vtpas_tm_cons" text="Consumption"/>
+        <text name="vtpas_tm_cover" text="Coverage"/>
+        <text name="vtpas_tm_cruise" text="Cruise control"/>
+        <text name="vtpas_tm_damage" text="Machine wear"/>
+        <text name="vtpas_tm_dist" text="Distance"/>
+        <text name="vtpas_tm_drive" text="Drive"/>
+        <text name="vtpas_tm_empty" text="Free"/>
+        <text name="vtpas_tm_field" text="Field %s"/>
+        <text name="vtpas_tm_fieldArea" text="Field area"/>
+        <text name="vtpas_tm_folded" text="Folded"/>
+        <text name="vtpas_tm_unfolded" text="Unfolded"/>
+        <text name="vtpas_tm_free" text="Open"/>
+        <text name="vtpas_tm_locked" text="Locked"/>
+        <text name="vtpas_tm_fuel" text="Fuel"/>
+        <text name="vtpas_tm_fuelLow" text="%s: low fuel (%d %%)"/>
+        <text name="vtpas_tm_fuelUsed" text="Fuel"/>
+        <text name="vtpas_tm_gear" text="Gear"/>
+        <text name="vtpas_tm_height" text="Height"/>
+        <text name="vtpas_tm_hitchF" text="Front hitch"/>
+        <text name="vtpas_tm_hitchR" text="Rear hitch"/>
+        <text name="vtpas_tm_hitchPickup" text="Implement pick-up"/>
+        <text name="vtpas_tm_hitchTool" text="Implement lift"/>
+        <text name="vtpas_tm_hours" text="Working hours"/>
+        <text name="vtpas_tm_job" text="JOB %d"/>
+        <text name="vtpas_tm_jobN1" text="Job 1"/>
+        <text name="vtpas_tm_jobN2" text="Job 2"/>
+        <text name="vtpas_tm_total" text="Total"/>
+        <text name="vtpas_tm_loadP" text="Engine load"/>
+        <text name="vtpas_tm_loc" text="Location"/>
+        <text name="vtpas_tm_lockF" text="Front diff lock"/>
+        <text name="vtpas_tm_lockR" text="Rear diff lock"/>
+        <text name="vtpas_tm_lowered" text="Lowered"/>
+        <text name="vtpas_tm_raised" text="Raised"/>
+        <text name="vtpas_tm_mapSoon" text="Coverage map and guidance lines: next version"/>
+        <text name="vtpas_tm_mode" text="AutoSwitch mode"/>
+        <text name="vtpas_tm_motor" text="Engine"/>
+        <text name="vtpas_tm_move" text="Move the terminal"/>
+        <text name="vtpas_tm_moveHow" text="Touch mode (Right Ctrl + Y), drag the top of the frame (AutoSwitch logo)"/>
+        <text name="vtpas_tm_no" text="No"/>
+        <text name="vtpas_tm_yes" text="Yes"/>
+        <text name="vtpas_tm_noTool" text="No implement attached"/>
+        <text name="vtpas_tm_none" text="None"/>
+        <text name="vtpas_tm_off" text="Off"/>
+        <text name="vtpas_tm_on" text="On"/>
+        <text name="vtpas_tm_opHours" text="Engine hours"/>
+        <text name="vtpas_tm_outField" text="Off field"/>
+        <text name="vtpas_tm_p_cam" text="CAMERA"/>
+        <text name="vtpas_tm_p_count" text="COUNTERS"/>
+        <text name="vtpas_tm_cl_transmission" text="Transmission"/>
+        <text name="vtpas_tm_cl_hitch" text="Hitch"/>
+        <text name="vtpas_tm_cl_hydraulic" text="Hydraulics"/>
+        <text name="vtpas_tm_cl_csm" text="Guidance"/>
+        <text name="vtpas_tm_cl_steering" text="Steering"/>
+        <text name="vtpas_tm_cl_tasks" text="Isobus"/>
+        <text name="vtpas_tm_cl_h_title" text="Rear hydraulic control units"/>
+        <text name="vtpas_tm_cl_h_sub" text="Setting of control units"/>
+        <text name="vtpas_tm_cl_h_counter" text="Counters"/>
+        <text name="vtpas_tm_cl_h_assign" text="Controller assignment"/>
+        <text name="vtpas_tm_cl_h_prio" text="Priority"/>
+        <text name="vtpas_tm_cl_h_fender" text="Fender controls"/>
+        <text name="vtpas_tm_cl_h_lock" text="Lock"/>
+        <text name="vtpas_tm_cl_h_fns" text="Functions"/>
+        <text name="vtpas_tm_cl_h_flow" text="Flow settings"/>
+        <text name="vtpas_tm_cl_h_resp" text="Valve response time"/>
+        <text name="vtpas_tm_cl_h_adjust" text="Adjust hydraulic settings"/>
+        <text name="vtpas_tm_cl_h_flowM" text="Max. delivery rate (-)"/>
+        <text name="vtpas_tm_cl_h_flowP" text="Max. delivery rate (+)"/>
+        <text name="vtpas_tm_cl_h_respM" text="Response time (-)"/>
+        <text name="vtpas_tm_cl_h_respP" text="Response time (+)"/>
+        <text name="vtpas_tm_cl_h_timer" text="Timing control"/>
+        <text name="vtpas_tm_cl_h_lockedMsg" text="Function locked (Hydraulics page)"/>
+        <text name="vtpas_tm_cl_t_title_r" text="Rear hitch"/>
+        <text name="vtpas_tm_cl_t_title_f" text="Front hitch"/>
+        <text name="vtpas_tm_cl_t_sub" text="Power lift settings"/>
+        <text name="vtpas_tm_cl_t_stab" text="Hydraulic stabilisers"/>
+        <text name="vtpas_tm_cl_t_upper" text="Height limit"/>
+        <text name="vtpas_tm_cl_t_speed" text="Lowering speed"/>
+        <text name="vtpas_tm_cl_t_mix" text="Mixed control"/>
+        <text name="vtpas_tm_cl_t_slip" text="Slip control"/>
+        <text name="vtpas_tm_cl_t_draft" text="Draft control"/>
+        <text name="vtpas_tm_cl_t_centre" text="Power lift centring setting"/>
+        <text name="vtpas_tm_cl_t_mode" text="Stabiliser mode"/>
+        <text name="vtpas_tm_cl_t_confirm" text="Confirm stabiliser mode"/>
+        <text name="vtpas_tm_cl_t_float" text="Floating"/>
+        <text name="vtpas_tm_cl_t_centred" text="Centred"/>
+        <text name="vtpas_tm_cl_t_autom" text="Automatic"/>
+        <text name="vtpas_tm_cl_p_tab" text="PTO"/>
+        <text name="vtpas_tm_cl_p_title" text="Rear PTO"/>
+        <text name="vtpas_tm_cl_p_sub" text="Rear PTO shaft settings"/>
+        <text name="vtpas_tm_cl_p_set" text="PTO setting"/>
+        <text name="vtpas_tm_cl_p_aon" text="Switch-on height (lowering)"/>
+        <text name="vtpas_tm_cl_p_aoff" text="Switch-off height (raising)"/>
+        <text name="vtpas_tm_cl_p_none" text="No PTO implement"/>
+        <text name="vtpas_tm_cl_p_running" text="PTO running"/>
+        <text name="vtpas_tm_cl_p_stopped" text="PTO stopped"/>
+        <text name="vtpas_tm_cl_p_mode" text="PTO speed"/>
+        <text name="vtpas_tm_cl_p_autoTxt" text="Off above %d %%, on below %d %%"/>
+        <text name="vtpas_tm_cl_p_autoOff" text="Off"/>
+        <text name="vtpas_tm_cl_p_doRun" text="START"/>
+        <text name="vtpas_tm_cl_p_doStop" text="STOP"/>
+        <text name="vtpas_tm_cl_q_title" text="Quick access"/>
+        <text name="vtpas_tm_cl_q_short" text="Shortcuts"/>
+        <text name="vtpas_tm_cl_q_setup" text="Setting up quick access"/>
+        <text name="vtpas_tm_cl_q_open" text="Set up"/>
+        <text name="vtpas_tm_cl_q_slot" text="Slot %d"/>
+        <text name="vtpas_tm_cl_q_auto" text="AUTO / MANUAL toggle"/>
+        <text name="vtpas_tm_cl_q_light" text="Lighting (all on / off)"/>
+        <text name="vtpas_tm_cl_q_task" text="New task (reset counter)"/>
+        <text name="vtpas_tm_cl_q_line" text="Straight line (Guidance)"/>
+        <text name="vtpas_tm_cl_q_hyd" text="Hydraulic control units"/>
+        <text name="vtpas_tm_cl_q_pto" text="PTO"/>
+        <text name="vtpas_tm_cl_k_title" text="Function keys"/>
+        <text name="vtpas_tm_cl_k_short" text="F keys"/>
+        <text name="vtpas_tm_cl_k_over" text="Overview"/>
+        <text name="vtpas_tm_cl_k_assign" text="F keys assignment"/>
+        <text name="vtpas_tm_cl_k_info" text="Information"/>
+        <text name="vtpas_tm_cl_k_fns" text="Functions"/>
+        <text name="vtpas_tm_cl_k_open" text="Assign"/>
+        <text name="vtpas_tm_cl_k_c1" text="blue"/>
+        <text name="vtpas_tm_cl_k_c2" text="brown"/>
+        <text name="vtpas_tm_cl_k_c3" text="green"/>
+        <text name="vtpas_tm_cl_k_c4" text="purple"/>
+        <text name="vtpas_tm_cl_k_noneMsg" text="Function key %d: no function assigned"/>
+        <text name="vtpas_tm_cl_counters" text="Counters"/>
+        <text name="vtpas_tm_cl_day" text="Day %d"/>
+        <text name="vtpas_tm_cl_rpm" text="rpm"/>
+        <text name="vtpas_tm_cl_onRoad" text="On Road"/>
+        <text name="vtpas_tm_cl_onField" text="On Field"/>
+        <text name="vtpas_tm_cl_load" text="Engine load"/>
+        <text name="vtpas_tm_cl_slip" text="Wheel slip"/>
+        <text name="vtpas_tm_p_home" text="HOME"/>
+        <text name="vtpas_tm_h_engine" text="ENGINE &amp; TRANSMISSION"/>
+        <text name="vtpas_tm_h_light" text="LIGHTING"/>
+        <text name="vtpas_tm_h_tools" text="IMPLEMENTS"/>
+        <text name="vtpas_tm_h_quick" text="QUICK ACCESS"/>
+        <text name="vtpas_tm_l_hazard" text="Hazard"/>
+        <text name="vtpas_tm_noLights" text="This vehicle has no lights"/>
+        <text name="vtpas_tm_themeBrand" text="Brand"/>
+        <text name="vtpas_tm_h_machine" text="MACHINE"/>
+        <text name="vtpas_tm_ic_header" text="Header"/>
+        <text name="vtpas_tm_ic_rollers" text="Feed rolls"/>
+        <text name="vtpas_tm_ic_cutter" text="Cutterhead"/>
+        <text name="vtpas_tm_ic_cracker" text="Cracker"/>
+        <text name="vtpas_tm_ic_blower" text="Accel."/>
+        <text name="vtpas_tm_ic_spout" text="Spout"/>
+        <text name="vtpas_tm_m_swathOn" text="SWATH"/>
+        <text name="vtpas_tm_m_chopOn" text="CHOPPER"/>
+        <text name="vtpas_tm_m_fanShort" text="Fan"/>
+        <text name="vtpas_tm_m_rotorShort" text="Rotor"/>
+        <text name="vtpas_tm_noSwath" text="No swath / chopper setting on this machine"/>
+        <text name="vtpas_tm_m_noTarget" text="No trailer alongside"/>
+        <text name="vtpas_tm_h_cut" text="HEADER"/>
+        <text name="vtpas_tm_h_bec" text="HEADER"/>
+        <text name="vtpas_tm_h_pickup" text="PICK-UP"/>
+        <text name="vtpas_tm_h_harvest" text="HARVEST"/>
+        <text name="vtpas_tm_h_boom" text="BOOM"/>
+        <text name="vtpas_tm_h_tank" text="TANK"/>
+        <text name="vtpas_tm_noHeader" text="No header attached"/>
+        <text name="vtpas_tm_l_drive" text="Lights"/>
+        <text name="vtpas_tm_l_high" text="High beam"/>
+        <text name="vtpas_tm_l_workF" text="Work front"/>
+        <text name="vtpas_tm_l_workR" text="Work rear"/>
+        <text name="vtpas_tm_l_beacon" text="Beacon"/>
+        <text name="vtpas_tm_vehW" text="Screen: width"/>
+        <text name="vtpas_tm_vehH" text="Screen: height"/>
+        <text name="vtpas_tm_vehRot" text="Screen: rotation"/>
+        <text name="vtpas_tm_vehOff" text="None (tablet)"/>
+        <text name="vtpas_tm_p_tool" text="IMPLEMENT"/>
+        <text name="vtpas_tm_p_harvest" text="MACHINE"/>
+        <text name="vtpas_tm_p_tractor" text="INFO"/>
+        <text name="vtpas_tm_p_work" text="WORK"/>
+        <text name="vtpas_tm_p_set" text="SETTINGS"/>
+        <text name="vtpas_tm_rate" text="Work rate"/>
+        <text name="vtpas_tm_reserve" text="Fuel reserve"/>
+        <text name="vtpas_tm_resetJob" text="RESET"/>
+        <text name="vtpas_tm_resetPos" text="DEFAULT POSITION"/>
+        <text name="vtpas_tm_resetSize" text="DEFAULT SIZE"/>
+        <text name="vtpas_tm_rpm" text="Engine speed"/>
+        <text name="vtpas_tm_savedFor" text="Position saved for"/>
+        <text name="vtpas_tm_show" text="Show the terminal"/>
+        <text name="vtpas_tm_showBoth" text="Cab and outside"/>
+        <text name="vtpas_tm_showCab" text="Cab only"/>
+        <text name="vtpas_tm_showOut" text="Outside only"/>
+        <text name="vtpas_tm_size" text="Terminal size"/>
+        <text name="vtpas_tm_slip" text="Wheel slip"/>
+        <text name="vtpas_tm_c_cruise" text="Cruise"/>
+        <text name="vtpas_tm_c_power" text="Engine power"/>
+        <text name="vtpas_tm_ut_title" text="Universal Terminal"/>
+        <text name="vtpas_tm_c_tyres" text="Tyre wear"/>
+        <text name="vtpas_tm_c_xte" text="Cross track error"/>
+        <text name="vtpas_tm_c_colGears" text="Gears and speed"/>
+        <text name="vtpas_tm_c_colHitch" text="Front / rear hitch"/>
+        <text name="vtpas_tm_c_colTitle" text="Left column: pick the box"/>
+        <text name="vtpas_tm_c_fuelEco" text="Fuel economy"/>
+        <text name="vtpas_tm_c_workRate" text="Average work rate"/>
+        <text name="vtpas_tm_c_fuelRate" text="Fuel rate"/>
+        <text name="vtpas_tm_c_settings" text="Settings"/>
+        <text name="vtpas_tm_c_tractor" text="Tractor"/>
+        <text name="vtpas_tm_l_title" text="Lights"/>
+        <text name="vtpas_tm_speed" text="Speed"/>
+        <text name="vtpas_tm_temp" text="Engine temperature"/>
+        <text name="vtpas_tm_touch" text="TOUCH"/>
+        <text name="vtpas_tm_touchStopped" text="Touch only when stopped"/>
+        <text name="vtpas_tm_touchLocked" text="Touch locked while driving"/>
+        <text name="vtpas_tm_touchLockedHow" text="Settings: Touch only when stopped"/>
+        <text name="vtpas_tm_cpHudBlock" text="Block Courseplay frame"/>
+        <text name="vtpas_tm_cpHudBlocked" text="Courseplay frame blocked (AutoSwitch terminal, see Settings)"/>
+        <text name="vtpas_tm_g_FP" text="FARMPILOT"/>
+        <text name="vtpas_tm_fpStartStop" text="FARMPILOT"/>
+        <text name="vtpas_tm_p_fp" text="FARMPILOT"/>
+        <text name="vtpas_tm_fpMissing" text="FarmPilot missing on this vehicle"/>
+        <text name="vtpas_tm_fpMode1" text="Drive to"/>
+        <text name="vtpas_tm_fpMode2" text="Pick up and deliver"/>
+        <text name="vtpas_tm_fpMode3" text="Deliver to"/>
+        <text name="vtpas_tm_fpMode4" text="Load"/>
+        <text name="vtpas_tm_fpMode5" text="Unload harvester"/>
+        <text name="vtpas_tm_fpMode6" text="Empty bunker silo"/>
+        <text name="vtpas_tm_fpState" text="State"/>
+        <text name="vtpas_tm_fpRunning" text="RUNNING"/>
+        <text name="vtpas_tm_fpStopped" text="STOPPED"/>
+        <text name="vtpas_tm_fpModeL" text="Mode"/>
+        <text name="vtpas_tm_fpChoose" text="CHOOSE"/>
+        <text name="vtpas_tm_fpTarget" text="Target"/>
+        <text name="vtpas_tm_fpUnload" text="Unload"/>
+        <text name="vtpas_tm_fpFill" text="Fill type"/>
+        <text name="vtpas_tm_fpLoops" text="Loops"/>
+        <text name="vtpas_tm_fpLoopsEndless" text="Endless"/>
+        <text name="vtpas_tm_fpSpeed" text="Road speed"/>
+        <text name="vtpas_tm_fpFieldSpeed" text="Field speed"/>
+        <text name="vtpas_tm_fpAutoPick" text="AUTO LOAD"/>
+        <text name="vtpas_tm_fpAutoUnload" text="AUTO UNLOAD"/>
+        <text name="vtpas_tm_fpByLevel" text="BY FILL LEVEL"/>
+        <text name="vtpas_tm_fpAutoHelper" text="RESTART HELPER"/>
+        <text name="vtpas_tm_fpGo" text="START / STOP"/>
+        <text name="vtpas_tm_fpContinue" text="CONTINUE"/>
+        <text name="vtpas_tm_fpPark" text="PARK"/>
+        <text name="vtpas_tm_fpHelper" text="FIELD HELPER"/>
+        <text name="vtpas_tm_fpEdit" text="EDIT ROUTES"/>
+        <text name="vtpas_tm_fpEditOn" text="Open"/>
+        <text name="vtpas_tm_fpSettings" text="FP SETTINGS"/>
+        <text name="vtpas_tm_fpFillHint" text="Box = several fill types"/>
+        <text name="vtpas_tm_fpNoFill" text="No fill type for these tools"/>
+        <text name="vtpas_tm_fpNoTarget" text="No target on the map"/>
+        <text name="vtpas_tm_fpPgUp" text="PREV. PAGE"/>
+        <text name="vtpas_tm_fpPgDn" text="NEXT PAGE"/>
+        <text name="vtpas_tm_fpAll" text="ALL / ONE"/>
+        <text name="vtpas_tm_fpFoldAll" text="FOLDERS"/>
+        <text name="vtpas_tm_fpBack" text="BACK"/>
+        <text name="vtpas_tm_fpHud" text="FarmPilot HUD"/>
+        <text name="vtpas_tm_fpHudHidden" text="Hidden (icon)"/>
+        <text name="vtpas_tm_fpHudShown" text="Shown"/>
+        <text name="vtpas_tm_fpIconOpen" text="Open the FarmPilot route editor"/>
+        <text name="vtpas_tm_fpIconClose" text="Close the FarmPilot route editor"/>
+        <text name="vtpas_tm_useJob1" text="JOB 1"/>
+        <text name="vtpas_tm_useJob2" text="JOB 2"/>
+        <text name="vtpas_tm_wear" text="Tyre wear FL/FR/RL/RR"/>
+        <text name="vtpas_tm_width" text="Working width"/>
+        <text name="vtpas_tm_g_CP" text="COURSEPLAY"/>
+        <text name="vtpas_tm_g_AD" text="AUTODRIVE"/>
+        <text name="vtpas_tm_g_IA" text="AI WORKER"/>
+        <text name="vtpas_tm_u_rpm" text="rpm"/>
+        <text name="vtpas_tm_tab3d" text="Tablet: 3D screen"/>
+        <text name="vtpas_tm_tabS" text="Tablet: size"/>
+        <text name="vtpas_tm_tabP" text="Tablet: tilt up / down"/>
+        <text name="vtpas_tm_tabR" text="Tablet: tilt left / right"/>
+        <text name="vtpas_tm_p_cp" text="COURSEPLAY"/>
+        <text name="vtpas_tm_noLift" text="No implement to raise or lower"/>
+        <text name="vtpas_tm_noTurnOn" text="No machine to turn on"/>
+        <text name="vtpas_tm_noFold" text="No foldable implement"/>
+        <text name="vtpas_tm_doRaise" text="RAISE"/>
+        <text name="vtpas_tm_doLower" text="LOWER"/>
+        <text name="vtpas_tm_doOn" text="TURN ON"/>
+        <text name="vtpas_tm_doOff" text="TURN OFF"/>
+        <text name="vtpas_tm_doFold" text="FOLD"/>
+        <text name="vtpas_tm_doUnfold" text="UNFOLD"/>
+        <text name="vtpas_tm_cpMissing" text="Courseplay is not available on this vehicle"/>
+        <text name="vtpas_tm_cpNoField" text="Courseplay: drive the vehicle onto a field"/>
+        <text name="vtpas_tm_cpState" text="Courseplay"/>
+        <text name="vtpas_tm_cpActive" text="Working"/>
+        <text name="vtpas_tm_cpReady" text="Ready"/>
+        <text name="vtpas_tm_cpNotReady" text="Not ready"/>
+        <text name="vtpas_tm_cpNoCourse" text="No course"/>
+        <text name="vtpas_tm_cpCourse" text="Course"/>
+        <text name="vtpas_tm_cpPoints" text="%d waypoints"/>
+        <text name="vtpas_tm_cpStart" text="Starting point"/>
+        <text name="vtpas_tm_cpWidth" text="Working width"/>
+        <text name="vtpas_tm_cpHeadlands" text="Headlands"/>
+        <text name="vtpas_tm_cpHint" text="Width and headlands: set them before generating the course"/>
+        <text name="vtpas_tm_cpGo" text="START"/>
+        <text name="vtpas_tm_cpStop" text="STOP"/>
+        <text name="vtpas_tm_cpGenerate" text="GENERATE COURSE"/>
+        <text name="vtpas_tm_cpClear" text="CLEAR COURSE"/>
+        <text name="vtpas_tm_cpMenu" text="COURSEPLAY MENU"/>
+        <text name="vtpas_tm_adStartStop" text="AUTODRIVE"/>
+        <text name="vtpas_tm_covered" text="Covered"/>
+        <text name="vtpas_tm_overlap" text="Overlap"/>
+        <text name="vtpas_tm_heading" text="Heading"/>
+        <text name="vtpas_tm_toEnd" text="To row end"/>
+        <text name="vtpas_tm_zoomIn" text="ZOOM +"/>
+        <text name="vtpas_tm_zoomOut" text="ZOOM -"/>
+        <text name="vtpas_tm_mapImg" text="MAP"/>
+        <text name="vtpas_tm_clearMap" text="CLEAR MAP"/>
+        <text name="vtpas_tm_newJob" text="NEW JOB"/>
+        <text name="vtpas_tm_rtkDist" text="RTK DISTANCE"/>
+        <text name="vtpas_tm_rtkNone" text="No antenna"/>
+        <text name="vtpas_tm_row" text="Row %s"/>
+        <text name="vtpas_tm_tablet" text="Tablet in the cab"/>
+        <text name="vtpas_tm_tabX" text="Tablet: right / left"/>
+        <text name="vtpas_tm_tabY" text="Tablet: up / down"/>
+        <text name="vtpas_tm_tabZ" text="Tablet: forward / back"/>
+        <text name="vtpas_tm_tabPlace" text="Tablet: location"/>
+        <text name="vtpas_tm_display" text="Show on"/>
+        <text name="vtpas_tm_dispTablet" text="Tablet"/>
+        <text name="vtpas_tm_dispVehicle" text="Vehicle screen"/>
+        <text name="vtpas_tm_dispBoth" text="Both"/>
+        <text name="vtpas_tm_ext2" text="2nd screen"/>
+        <text name="vtpas_tm_ext3" text="3rd screen"/>
+        <text name="vtpas_tm_extOff" text="None"/>
+        <text name="vtpas_tm_vehScreen" text="Screen used"/>
+        <text name="vtpas_tm_vehNone" text="none found"/>
+        <text name="vtpas_tm_vehOri" text="Terminal plane"/>
+        <text name="vtpas_tm_oriPart" text="Original screen"/>
+        <text name="vtpas_tm_oriHead" text="Towards head"/>
+        <text name="vtpas_tm_boot" text="Starting..."/>
+        <text name="vtpas_tm_tabHigh" text="High, right of the pillar"/>
+        <text name="vtpas_tm_tabLow" text="Low, left of the pillar"/>
+        <text name="vtpas_tm_setTab" text="TABLET"/>
+        <text name="vtpas_tm_setMain" text="GENERAL"/>
+        <text name="vtpas_tm_noPipe" text="No usable pipe"/>
+        <text name="vtpas_tm_m_machine" text="Machine"/>
+        <text name="vtpas_tm_m_product" text="Product"/>
+        <text name="vtpas_tm_m_tank" text="Tank"/>
+        <text name="vtpas_tm_m_dose" text="Rate"/>
+        <text name="vtpas_tm_m_width" text="Width"/>
+        <text name="vtpas_tm_m_haLeft" text="Area left"/>
+        <text name="vtpas_tm_m_state" text="State"/>
+        <text name="vtpas_tm_m_header" text="Header"/>
+        <text name="vtpas_tm_m_cutter" text="Cutter"/>
+        <text name="vtpas_tm_m_chopper" text="Chopper"/>
+        <text name="vtpas_tm_m_thresher" text="Thresher"/>
+        <text name="vtpas_tm_m_pipeIn" text="FOLD IN"/>
+        <text name="vtpas_tm_m_pipeOut" text="FOLD OUT"/>
+        <text name="vtpas_tm_m_pipe" text="Pipe"/>
+        <text name="vtpas_tm_m_crop" text="Crop"/>
+        <text name="vtpas_tm_m_grainTank" text="Grain tank"/>
+        <text name="vtpas_tm_m_toFull" text="Full in"/>
+        <text name="vtpas_tm_m_low" text="low"/>
+        <text name="vtpas_tm_m_high" text="high"/>
+        <text name="vtpas_tm_m_tph" text="Throughput"/>
+        <text name="vtpas_tm_m_out" text="out"/>
+        <text name="vtpas_tm_m_in" text="in"/>
+        <text name="vtpas_tm_m_left" text="left"/>
+        <text name="vtpas_tm_m_right" text="right"/>
+        <text name="vtpas_tm_m_trailer" text="Trailer"/>
+        <text name="vtpas_tm_m_load" text="Engine load"/>
+        <text name="vtpas_tm_m_fresh" text="Fresh matter"/>
+        <text name="vtpas_tm_m_power" text="Feed / drum / blower"/>
+        <text name="vtpas_tm_m_frontTool" text="Front"/>
+        <text name="vtpas_tm_m_pickup" text="Pick-up"/>
+        <text name="vtpas_tm_m_yield" text="Yield"/>
+        <text name="vtpas_tm_m_hph" text="Area / hour"/>
+        <text name="vtpas_tm_m_speed" text="Advised speed"/>
+        <text name="vtpas_tm_m_fuel" text="Fuel"/>
+        <text name="vtpas_tm_m_moist" text="Moisture"/>
+        <text name="vtpas_tm_m_weed" text="Weeds"/>
+        <text name="vtpas_tm_m_loss" text="Losses"/>
+        <text name="vtpas_tm_m_lossWhy" text="of which"/>
+        <text name="vtpas_tm_m_lOver" text="Overl."/>
+        <text name="vtpas_tm_m_lMoist" text="Moist."/>
+        <text name="vtpas_tm_m_lSet" text="Sett."/>
+        <text name="vtpas_tm_m_lWear" text="Wear"/>
+        <text name="vtpas_tm_m_lSlope" text="Slope"/>
+        <text name="vtpas_tm_m_eff" text="Settings efficiency"/>
+        <text name="vtpas_tm_m_s_rotor" text="Rotor / drum (opt.)"/>
+        <text name="vtpas_tm_m_s_feeder" text="Feeder (opt.)"/>
+        <text name="vtpas_tm_m_s_fan" text="Fan (opt.)"/>
+        <text name="vtpas_tm_m_s_upperSieve" text="Upper sieve (opt.)"/>
+        <text name="vtpas_tm_m_s_lowerSieve" text="Lower sieve (opt.)"/>
+        <text name="vtpas_tm_m_noRh" text="Realistic Harvesting not loaded"/>
+        <text name="vtpas_tm_cpLoadSave" text="LOAD SAVED"/>
+        <text name="vtpas_tm_cpSavesTitle" text="Saved courses"/>
+        <text name="vtpas_tm_cpSavesNone" text="No saved course"/>
+        <text name="vtpas_tm_cpFind" text="FIND A JOB"/>
+        <text name="vtpas_tm_cpFindNoCp" text="Courseplay courses not found"/>
+        <text name="vtpas_tm_cpFindNoField" text="No field within 150 m"/>
+        <text name="vtpas_tm_cpFindNone" text="No saved course for this field"/>
+        <text name="vtpas_tm_cpFindLoadErr" text="Could not load the course"/>
+        <text name="vtpas_tm_cpFindHead" text="Saved courses - field %s - tool %s"/>
+        <text name="vtpas_tm_cpFindHl" text="%d headl."/>
+        <text name="vtpas_tm_cpFindBusy" text="Searching saved courses..."/>
+        <text name="vtpas_tm_cpFindField" text="field %s"/>
+        <text name="vtpas_tm_m_empty" text="Empty"/>
+        <text name="vtpas_tm_tipGo" text="TIP"/>
+        <text name="vtpas_tm_tipStop" text="STOP"/>
+        <text name="vtpas_tm_tipOn" text="Tipping"/>
+        <text name="vtpas_tm_tipOff" text="Tipper down"/>
+        <text name="vtpas_tm_tipSide" text="SIDE"/>
+        <text name="vtpas_tm_tipNo" text="Cannot unload here"/>
+        <text name="vtpas_tm_coverOpen" text="OPEN COVER"/>
+        <text name="vtpas_tm_coverClose" text="CLOSE COVER"/>
+        <text name="vtpas_tm_coverIsOpen" text="Cover open"/>
+        <text name="vtpas_tm_coverIsClosed" text="Cover closed"/>
+        <text name="vtpas_tm_p_rh" text="HARVEST SETTINGS"/>
+        <text name="vtpas_tm_rhPage" text="HARVEST SETTINGS"/>
+        <text name="vtpas_tm_rhMenu" text="RH MENU"/>
+        <text name="vtpas_tm_rhNone" text="Realistic Harvesting: machine not managed"/>
+        <text name="vtpas_tm_rhNoPreset" text="No saved settings for this crop"/>
+        <text name="vtpas_tm_rhAuto" text="AI AUTO-CALIB"/>
+        <text name="vtpas_tm_rhLoad" text="LOAD"/>
+        <text name="vtpas_tm_rhSave" text="SAVE"/>
+        <text name="vtpas_tm_rhReset" text="FACTORY VALUES"/>
+        <text name="vtpas_tm_m_targetLoad" text="Target load"/>
+        <text name="vtpas_tm_sideAV" text="FR"/>
+        <text name="vtpas_tm_sideAR" text="RE"/>
+        <text name="vtpas_tm_c_dist" text="Distance"/>
+        <text name="vtpas_tm_c_distW" text="Dist. working"/>
+        <text name="vtpas_tm_c_area" text="Area"/>
+        <text name="vtpas_tm_tk_baler" text="BALER"/>
+        <text name="vtpas_tm_tk_baleLoader" text="BALE LOADER"/>
+        <text name="vtpas_tm_tk_wrapper" text="WRAPPER"/>
+        <text name="vtpas_tm_tk_combine" text="COMBINE"/>
+        <text name="vtpas_tm_tk_forage" text="FORAGE HARV."/>
+        <text name="vtpas_tm_tk_root" text="HARVESTER"/>
+        <text name="vtpas_tm_tk_header" text="HEADER"/>
+        <text name="vtpas_tm_tk_forageWagon" text="LOADER WAGON"/>
+        <text name="vtpas_tm_tk_mixer" text="MIXER WAGON"/>
+        <text name="vtpas_tm_tk_seeder" text="SEEDER"/>
+        <text name="vtpas_tm_tk_sprayer" text="SPRAYER"/>
+        <text name="vtpas_tm_tk_spreader" text="SPREADER"/>
+        <text name="vtpas_tm_tk_slurry" text="SLURRY TANK"/>
+        <text name="vtpas_tm_tk_selfSprayer" text="SELF-PROPELLED"/>
+        <text name="vtpas_tm_tk_mower" text="MOWER"/>
+        <text name="vtpas_tm_tk_tedder" text="TEDDER"/>
+        <text name="vtpas_tm_tk_windrower" text="WINDROWER"/>
+        <text name="vtpas_tm_tk_plow" text="PLOUGH"/>
+        <text name="vtpas_tm_tk_cultivator" text="CULTIVATOR"/>
+        <text name="vtpas_tm_tk_weeder" text="WEEDER"/>
+        <text name="vtpas_tm_tk_roller" text="ROLLER"/>
+        <text name="vtpas_tm_tk_mulcher" text="MULCHER"/>
+        <text name="vtpas_tm_tk_stonePicker" text="STONE PICKER"/>
+        <text name="vtpas_tm_tk_trailer" text="TRAILER"/>
+        <text name="vtpas_tm_tk_generic" text="IMPLEMENT"/>
+        <text name="vtpas_tm_tt_bales" text="BALES"/>
+        <text name="vtpas_tm_tt_balesTotal" text="total %d"/>
+        <text name="vtpas_tm_tt_bale" text="CURRENT BALE"/>
+        <text name="vtpas_tm_tt_format" text="SIZE"/>
+        <text name="vtpas_tm_tt_eject" text="EJECTION"/>
+        <text name="vtpas_tm_tt_auto" text="AUTO"/>
+        <text name="vtpas_tm_tt_manual" text="MANUAL"/>
+        <text name="vtpas_tm_tt_twine" text="TWINE"/>
+        <text name="vtpas_tm_tt_net" text="NET"/>
+        <text name="vtpas_tm_tt_film" text="FILM"/>
+        <text name="vtpas_tm_tt_rolls" text="rolls"/>
+        <text name="vtpas_tm_tt_area" text="AREA"/>
+        <text name="vtpas_tm_tt_hours" text="HOURS"/>
+        <text name="vtpas_tm_tt_width" text="WIDTH"/>
+        <text name="vtpas_tm_tt_load" text="LOAD"/>
+        <text name="vtpas_tm_tt_pos" text="POSITION"/>
+        <text name="vtpas_tm_tt_work" text="WORKING"/>
+        <text name="vtpas_tm_tt_transport" text="TRANSPORT"/>
+        <text name="vtpas_tm_tt_unload" text="UNLOADING"/>
+        <text name="vtpas_tm_tt_running" text="RUNNING"/>
+        <text name="vtpas_tm_tt_waiting" text="WAITING"/>
+        <text name="vtpas_tm_tt_wrap" text="WRAPPING"/>
+        <text name="vtpas_tm_tt_ready" text="READY"/>
+        <text name="vtpas_tm_tt_swath" text="SWATH"/>
+        <text name="vtpas_tm_tt_grouped" text="GROUPED"/>
+        <text name="vtpas_tm_tt_spread" text="SPREAD"/>
+        <text name="vtpas_tm_tt_mode" text="MODE"/>
+        <text name="vtpas_tm_tt_seed" text="SEED"/>
+        <text name="vtpas_tm_tt_hopper" text="HOPPER"/>
+        <text name="vtpas_tm_tt_markers" text="MARKERS"/>
+        <text name="vtpas_tm_tt_mkOff" text="UP"/>
+        <text name="vtpas_tm_tt_mkLeft" text="LEFT"/>
+        <text name="vtpas_tm_tt_mkRight" text="RIGHT"/>
+        <text name="vtpas_tm_tt_fert" text="FERTILIZER"/>
+        <text name="vtpas_tm_tt_product" text="PRODUCT"/>
+        <text name="vtpas_tm_tt_tank" text="TANK"/>
+        <text name="vtpas_tm_tt_dose" text="RATE"/>
+        <text name="vtpas_tm_tt_haLeft" text="HA LEFT"/>
+        <text name="vtpas_tm_pf_seedRate" text="SEED RATE"/>
+        <text name="vtpas_tm_pf_seeds" text="SEEDS SOWN"/>
+        <text name="vtpas_tm_pf_dose" text="APPLICATION RATE"/>
+        <text name="vtpas_tm_pf_fertDose" text="FERTILIZER RATE"/>
+        <text name="vtpas_tm_pf_auto" text="AUTO"/>
+        <text name="vtpas_tm_pf_manu" text="MANUAL"/>
+        <text name="vtpas_tm_pf_low" text="Low"/>
+        <text name="vtpas_tm_pf_std" text="Standard"/>
+        <text name="vtpas_tm_pf_high" text="High"/>
+        <text name="vtpas_tm_pf_nitrogen" text="NITROGEN"/>
+        <text name="vtpas_tm_pf_ph" text="SOIL pH"/>
+        <text name="vtpas_tm_pf_actual" text="Current"/>
+        <text name="vtpas_tm_pf_target" text="Target"/>
+        <text name="vtpas_tm_pf_real" text="Actual"/>
+        <text name="vtpas_tm_pf_reco" text="Recommended"/>
+        <text name="vtpas_tm_pf_na" text="No seed rate for this seed"/>
+        <text name="vtpas_tm_pf_reached" text="Target reached"/>
+        <text name="vtpas_tm_pf_notOnField" text="Off field"/>
+        <text name="vtpas_tm_tt_sections" text="sections"/>
+        <text name="vtpas_tm_tt_side" text="SIDE"/>
+        <text name="vtpas_tm_tt_turned" text="TURNED"/>
+        <text name="vtpas_tm_tt_normal" text="NORMAL"/>
+        <text name="vtpas_tm_tt_limit" text="FIELD LIMIT"/>
+        <text name="vtpas_tm_tt_tip" text="TIPPING"/>
+        <text name="vtpas_tm_tt_cover" text="COVER"/>
+        <text name="vtpas_tm_tt_crop" text="CROP"/>
+        <text name="vtpas_tm_tt_reset" text="RESET"/>
+        <text name="vtpas_tm_tt_hitch" text="HITCH"/>
+        <text name="vtpas_tm_al_full" text="FULL"/>
+        <text name="vtpas_tm_al_emptyX" text="%s EMPTY"/>
+        <text name="vtpas_tm_al_fault" text="BREAKDOWN (ADS)"/>
+        <text name="vtpas_tm_al_soon" text="BREAKDOWN SOON (ADS)"/>
+        <text name="vtpas_tm_k_eject" text="EJECT"/>
+        <text name="vtpas_tm_k_ejectAuto" text="EJECTION"/>
+        <text name="vtpas_tm_k_size" text="SIZE"/>
+        <text name="vtpas_tm_k_resetBales" text="RESET BALES"/>
+        <text name="vtpas_tm_k_unload" text="UNLOAD"/>
+        <text name="vtpas_tm_k_drop" text="DROP"/>
+        <text name="vtpas_tm_k_swath" text="SWATH"/>
+        <text name="vtpas_tm_k_mode" text="MODE"/>
+        <text name="vtpas_tm_k_seed" text="SEED"/>
+        <text name="vtpas_tm_k_markers" text="MARKERS"/>
+        <text name="vtpas_tm_k_double" text="RATE ×2"/>
+        <text name="vtpas_tm_k_sections" text="SECTIONS"/>
+        <text name="vtpas_tm_k_turn" text="TURN"/>
+        <text name="vtpas_tm_k_limit" text="FIELD LIMIT"/>
+        <text name="vtpas_tm_setHome" text="HOME"/>
+        <text name="vtpas_tm_hmFor" text="Home tiles for"/>
+        <text name="vtpas_tm_hmAuto" text="Auto"/>
+        <text name="vtpas_tm_hmShown" text="shown"/>
+        <text name="vtpas_tm_hmHidden" text="hidden"/>
+        <text name="vtpas_tm_hmAlways" text="Always"/>
+        <text name="vtpas_tm_hmNever" text="Never"/>
+        <text name="vtpas_tm_hm_engine" text="Engine and transmission"/>
+        <text name="vtpas_tm_hm_lights" text="Picture and lights"/>
+        <text name="vtpas_tm_hm_center" text="Machine in the centre"/>
+        <text name="vtpas_tm_hm_quick" text="Quick access"/>
+        <text name="vtpas_tm_hm_hitchF" text="Front (hitch, header, boom)"/>
+        <text name="vtpas_tm_hm_hitchR" text="Rear (hitch, harvest, tank)"/>
+        <text name="vtpas_tm_hm_tools" text="Implements"/>
+        <text name="vtpas_tm_hm_speed" text="Speed"/>
+        <text name="vtpas_tm_p_gps" text="GPS GUIDANCE"/>
+        <text name="vtpas_tm_gps_st_none" text="NO COURSEPLAY"/>
+        <text name="vtpas_tm_gps_st_noLine" text="NO LINE"/>
+        <text name="vtpas_tm_gps_st_on" text="ENGAGED"/>
+        <text name="vtpas_tm_gps_st_ready" text="READY"/>
+        <text name="vtpas_tm_gps_st_off" text="UNAVAILABLE"/>
+        <text name="vtpas_tm_gps_noCp" text="Courseplay missing"/>
+        <text name="vtpas_tm_gps_noCourse" text="No course"/>
+        <text name="vtpas_tm_gps_turning" text="TURNING"/>
+        <text name="vtpas_tm_gps_noLine" text="Off line"/>
+        <text name="vtpas_tm_gps_row" text="TRACK %d / %d"/>
+        <text name="vtpas_tm_gps_hl" text="HEADLAND %d"/>
+        <text name="vtpas_tm_gps_noRtk" text="No RTK signal"/>
+        <text name="vtpas_tm_gps_noRtkStart" text="No RTK signal: get closer to an RTK station to start"/>
+        <text name="vtpas_tm_gps_sat" text="%d sat.  ± %s"/>
+        <text name="vtpas_tm_gps_toTurn" text="Turn in %d m"/>
+        <text name="vtpas_tm_gps_end" text="Last line"/>
+        <text name="vtpas_tm_gps_done" text="Done %d %%  -  left %s"/>
+        <text name="vtpas_tm_gps_time" text="Time left %s"/>
+        <text name="vtpas_tm_gps_create" text="Create the course: COURSE"/>
+        <text name="vtpas_tm_gps_v_persp" text="Perspective"/>
+        <text name="vtpas_tm_gps_v_top" text="Top"/>
+        <text name="vtpas_tm_gps_shift" text="Shift"/>
+        <text name="vtpas_tm_gps_view" text="VIEW"/>
+        <text name="vtpas_tm_gps_zoom" text="ZOOM"/>
+        <text name="vtpas_tm_gps_course" text="COURSE"/>
+        <text name="vtpas_tm_gps_rows" text="%d tracks"/>
+        <text name="vtpas_tm_gps_back" text="BACK"/>
+        <text name="vtpas_tm_gps_courseInfo" text="%d tracks, %d headlands, %.1f km"/>
+        <text name="vtpas_tm_gps_offset" text="Tool offset"/>
+        <text name="vtpas_tm_gps_lane" text="Lane (multi-tool)"/>
+        <text name="vtpas_tm_gps_rec" text="Field border (record)"/>
+        <text name="vtpas_tm_gps_recPaused" text="Paused"/>
+        <text name="vtpas_tm_gps_recOn" text="Recording"/>
+        <text name="vtpas_tm_gps_recGo" text="RESUME"/>
+        <text name="vtpas_tm_gps_recPause" text="PAUSE"/>
+        <text name="vtpas_tm_gps_recStop" text="STOP"/>
+        <text name="vtpas_tm_gps_recStart" text="START"/>
+        <text name="vtpas_tm_gps_noShift" text="Tool offset not available for this vehicle"/>
+        <text name="vtpas_tm_gps_recNo" text="Field border: clear the course and stop Courseplay first"/>
+        <text name="vtpas_tm_mf_temporary" text="Temporary"/>
+        <text name="vtpas_tm_mf_valveF" text="Valve %02d (F)"/>
+        <text name="vtpas_tm_mf_valve" text="Valve %02d"/>
+        <text name="vtpas_tm_mf_memory" text="Memory space used"/>
+        <text name="vtpas_tm_mf_reset" text="RESET"/>
+        <text name="vtpas_tm_mf_work" text="Work"/>
+        <text name="vtpas_tm_mf_total" text="Total"/>
+        <text name="vtpas_tm_mf_accTitle" text="Accessories and settings"/>
+        <text name="vtpas_tm_mf_metric" text="Metric"/>
+        <text name="vtpas_tm_mf_imperial" text="Imperial"/>
+        <text name="vtpas_tm_mf_radio" text="Radio and phone"/>
+        <text name="vtpas_tm_mf_serial" text="Serial number:"/>
+        <text name="vtpas_tm_mf_app" text="Application"/>
+        <text name="vtpas_tm_mf_rev" text="Based on revision"/>
+        <text name="vtpas_tm_mf_machine" text="Built on machine"/>
+        <text name="vtpas_tm_mf_builtOn" text="Built on"/>
+        <text name="vtpas_tm_mf_resetBtn" text="Reset"/>
+        <text name="vtpas_tm_mf_auto" text="Auto"/>
+        <text name="vtpas_tm_mf_manual" text="Manual"/>
+        <text name="vtpas_tm_mf_mEngine" text="Engine"/>
+        <text name="vtpas_tm_mf_mTrans" text="Transmission"/>
+        <text name="vtpas_tm_mf_mHitch" text="Hitch"/>
+        <text name="vtpas_tm_mf_mHyd" text="Hydraulics"/>
+        <text name="vtpas_tm_mf_mPto" text="PTO"/>
+        <text name="vtpas_tm_mf_mFp" text="FarmPilot"/>
+        <text name="vtpas_tm_mf_mDual" text="Dual Control"/>
+        <text name="vtpas_tm_mf_m4wd" text="4WD / Diff"/>
+        <text name="vtpas_tm_mf_mGuide" text="MF Guide"/>
+        <text name="vtpas_tm_mf_mSc" text="Sections"/>
+        <text name="vtpas_tm_mf_mCount" text="Counters"/>
+        <text name="vtpas_tm_mf_mIsobus" text="Tasks"/>
+        <text name="vtpas_tm_mf_mCam" text="Camera"/>
+        <text name="vtpas_tm_mf_mJoy" text="Joystick"/>
+        <text name="vtpas_tm_mf_mTool" text="Implement"/>
+        <text name="vtpas_tm_mf_mLight" text="Lights"/>
+        <text name="vtpas_tm_mf_lTitle" text="LIGHTING"/>
+        <text name="vtpas_tm_fd_hitchF" text="Front hitch"/>
+        <text name="vtpas_tm_fd_hitchR" text="Rear hitch"/>
+        <text name="vtpas_tm_fd_motor" text="Engine &amp; transmission"/>
+        <text name="vtpas_tm_fd_light" text="Lighting"/>
+        <text name="vtpas_tm_fd_valves" text="Hydraulic valves"/>
+        <text name="vtpas_tm_fd_valve" text="Valve"/>
+        <text name="vtpas_tm_fd_quick" text="Quick access"/>
+        <text name="vtpas_tm_fd_clim" text="Air conditioning"/>
+        <text name="vtpas_tm_fd_joy" text="Joystick"/>
+        <text name="vtpas_tm_fd_tools" text="Implement manager"/>
+        <text name="vtpas_tm_fd_tiOff" text="TI not active"/>
+        <text name="vtpas_tm_fd_field" text="Field"/>
+        <text name="vtpas_tm_fd_noField" text="No field"/>
+        <text name="vtpas_tm_fd_done" text="worked"/>
+        <text name="vtpas_tm_fd_noTool" text="No implement"/>
+        <text name="vtpas_tm_fd_settings" text="Settings"/>
+        <text name="vtpas_tm_fd_hitchHelp" text="Press the green button to raise or lower the implement. Take care with implements already working."/>
+        <text name="vtpas_tm_fd_pto" text="PTO"/>
+        <text name="vtpas_tm_fd_ptoAsk" text="Select the PTO"/>
+        <text name="vtpas_tm_fd_on" text="On"/>
+        <text name="vtpas_tm_fd_off" text="Off"/>
+        <text name="vtpas_tm_fd_front" text="Front"/>
+        <text name="vtpas_tm_fd_rear" text="Rear"/>
+        <text name="vtpas_tm_fd_comp" text="On-board computer"/>
+        <text name="vtpas_tm_fd_tractor" text="Tractor"/>
+        <text name="vtpas_tm_fd_turnSet" text="Settings: Turn Assistant"/>
+        <text name="vtpas_tm_fd_turnMode" text="Turn Assistant mode"/>
+        <text name="vtpas_tm_fd_pattern" text="Driving pattern (Courseplay)"/>
+        <text name="vtpas_tm_fd_heads" text="Headlands"/>
+        <text name="vtpas_tm_fd_skip" text="Rows to skip"/>
+        <text name="vtpas_tm_fd_order" text="Driving sequence"/>
+        <text name="vtpas_tm_fd_qaOn" text="Implement on / off"/>
+        <text name="vtpas_tm_fd_qaFold" text="Fold / unfold"/>
+        <text name="vtpas_tm_fd_qaDown" text="Lower all"/>
+        <text name="vtpas_tm_fd_qaUp" text="Raise all"/>
+        <text name="vtpas_tm_fd_hUp" text="Raise"/>
+        <text name="vtpas_tm_fd_hDown" text="Lower"/>
+        <text name="vtpas_tm_fd_remHint1" text="Tap row 1, 2 or 3 to choose its function."/>
+        <text name="vtpas_tm_fd_remHint2" text="APPLY works like pressing the valve."/>
+        <text name="vtpas_tm_fd_gResume" text="Resume"/>
+        <text name="vtpas_tm_fd_gZin" text="Zoom +"/>
+        <text name="vtpas_tm_fd_gZout" text="Zoom -"/>
+        <text name="vtpas_tm_fd_gV3d" text="3D view"/>
+        <text name="vtpas_tm_fd_gV2d" text="2D view"/>
+        <text name="vtpas_tm_fd_gBack" text="Back"/>
+        <text name="vtpas_tm_fd_gCpOn" text="Courseplay driving"/>
+        <text name="vtpas_tm_fd_gCpReady" text="Course ready"/>
+        <text name="vtpas_tm_fd_gCpNone" text="No course"/>
+        <text name="vtpas_tm_fd_scTool" text="Implement"/>
+        <text name="vtpas_tm_fd_scNext" text="tap = next implement"/>
+        <text name="vtpas_tm_fd_scSections" text="%d sections"/>
+        <text name="vtpas_tm_fd_scDone" text="Area already done"/>
+        <text name="vtpas_tm_fd_scCut" text="Switch off"/>
+        <text name="vtpas_tm_fd_scNoCut" text="Keep on"/>
+        <text name="vtpas_tm_fd_scBorder" text="Field border"/>
+        <text name="vtpas_tm_fd_scBd1" text="As soon as out"/>
+        <text name="vtpas_tm_fd_scBd2" text="Half out"/>
+        <text name="vtpas_tm_fd_scBd3" text="None"/>
+        <text name="vtpas_tm_fd_scBoom" text="Boom control"/>
+        <text name="vtpas_tm_fd_scMap" text="Work map"/>
+        <text name="vtpas_tm_fd_scOvIn" text="Overlap in the field"/>
+        <text name="vtpas_tm_fd_scOvBd" text="Overlap at the border"/>
+        <text name="vtpas_tm_fd_scDrive" text="Driving direction"/>
+        <text name="vtpas_tm_fd_scTol" text="Outer section tolerance"/>
+        <text name="vtpas_tm_fd_scDOn" text="Switch-on delay"/>
+        <text name="vtpas_tm_fd_scDOff" text="Switch-off delay"/>
+        <text name="vtpas_tm_fd_tiHint1" text="Tap GO or END = its actions, in order."/>
+        <text name="vtpas_tm_fd_tiHint2" text="Right: choose the key and its 3 actions."/>
+        <text name="vtpas_tm_fd_tiDef" text="Default"/>
+        <text name="vtpas_tm_fd_tiTry" text="Try"/>
+        <text name="vtpas_tm_fd_tiTile" text="GO / END: key = actions; tile = settings"/>
+        <text name="vtpas_tm_fd_qaCam" text="Camera"/>
+        <text name="vtpas_tm_fd_qaWorkF" text="Front work lights"/>
+        <text name="vtpas_tm_fd_qaBeacon" text="Beacon"/>
+        <text name="vtpas_tm_fd_qaWorkR" text="Rear work lights"/>
+        <text name="vtpas_tm_fd_qaDrive" text="Driving lights"/>
+        <text name="vtpas_tm_fd_qaDiff" text="Diff lock / 4WD"/>
+        <text name="vtpas_tm_fd_lpTi" text="Fendt TI"/>
+        <text name="vtpas_tm_fd_lpTerm" text="Terminal"/>
+        <text name="vtpas_tm_fd_lpSusp" text="Suspension"/>
+        <text name="vtpas_tm_fd_lpGripPro" text="VarioGrip Pro"/>
+        <text name="vtpas_tm_fd_lpGrip" text="VarioGrip"/>
+        <text name="vtpas_tm_fd_lpMedia" text="Media"/>
+        <text name="vtpas_tm_fd_lpPhone" text="Phone"/>
+        <text name="vtpas_tm_fd_lpTms" text="TMS"/>
+        <text name="vtpas_tm_fd_lpGuide" text="Fendt Guide"/>
+        <text name="vtpas_tm_fd_lpCount" text="Counters"/>
+        <text name="vtpas_tm_fd_lpUt" text="ISOBUS (implement)"/>
+        <text name="vtpas_tm_fd_lpTools" text="Implement management"/>
+        <text name="vtpas_tm_fd_lpService" text="Tractor / service"/>
+        <text name="vtpas_tm_fd_lpSc" text="Section Control"/>
+        <text name="vtpas_tm_fd_gSteer" text="Steering"/>
+        <text name="vtpas_tm_fd_gCourse" text="Course settings"/>
+        <text name="vtpas_tm_fd_gField" text="Field"/>
+        <text name="vtpas_tm_fd_gNew" text="New course"/>
+        <text name="vtpas_tm_fd_gLines" text="Lines"/>
+        <text name="vtpas_tm_fd_gWidth" text="Width"/>
+        <text name="vtpas_tm_fd_gZoom" text="Zoom"/>
+        <text name="vtpas_tm_fd_gMake" text="Generate course"/>
+        <text name="vtpas_tm_fd_gRec" text="Record boundary"/>
+        <text name="vtpas_tm_fd_gPause" text="Pause"/>
+        <text name="vtpas_tm_fd_gStop" text="Stop"/>
+        <text name="vtpas_tm_fd_gClear" text="Clear course"/>
+        <text name="vtpas_tm_fd_gStart" text="Starting point"/>
+        <text name="vtpas_tm_fd_gTurn" text="Turn assistant"/>
+        <text name="vtpas_tm_fd_lockOn" text="Locked"/>
+        <text name="vtpas_tm_fd_lockOff" text="Free"/>
+        <text name="vtpas_tm_fd_lWorkF" text="Front work"/>
+        <text name="vtpas_tm_fd_lWorkR" text="Rear work"/>
+        <text name="vtpas_tm_fd_lBeacon" text="Beacon"/>
+        <text name="vtpas_tm_fd_lHigh" text="High beam"/>
+        <text name="vtpas_tm_fd_lDrive" text="Low beam"/>
+        <text name="vtpas_tm_fd_lMem1" text="Memory 1: all"/>
+        <text name="vtpas_tm_fd_lMem2" text="Memory 2: off"/>
+        <text name="vtpas_tm_fd_cReset" text="Reset"/>
+        <text name="vtpas_tm_fd_qaTool" text="Implement"/>
+        <text name="vtpas_tm_mf_vFns" text="FUNCTIONS"/>
+        <text name="vtpas_tm_mf_vHelp" text="Tap a box to choose its function and target state; APPLY = pressing the box on the home screen."/>
+        <text name="vtpas_tm_mf_vFv1Def" text="With no function set, FV1 raises and lowers the front hitch."/>
+        <text name="vtpas_tm_mf_mClim" text="Climate"/>
+        <text name="vtpas_tm_mf_mRadio" text="Radio"/>
+        <text name="vtpas_tm_mf_mTractor" text="Tractor"/>
+        <text name="vtpas_tm_mf_mCp" text="Courseplay"/>
+        <text name="vtpas_tm_mf_mSet" text="Settings"/>
+        <text name="vtpas_tm_mf_scSelImpl" text="SELECT THE IMPLEMENT"/>
+        <text name="vtpas_tm_mf_scBoom" text="SELECTABLE BOOM"/>
+        <text name="vtpas_tm_mf_scOverlap" text="OVERLAP SETTINGS"/>
+        <text name="vtpas_tm_mf_scInField" text="IN-FIELD"/>
+        <text name="vtpas_tm_mf_scBoundary" text="BOUNDARY"/>
+        <text name="vtpas_tm_mf_scDrive" text="DRIVING DIRECTION"/>
+        <text name="vtpas_tm_mf_scTol1" text="TOLERANCE OUTER"/>
+        <text name="vtpas_tm_mf_scTol2" text="SECTION"/>
+        <text name="vtpas_tm_mf_scBoomCtl" text="BOOM CONTROL"/>
+        <text name="vtpas_tm_mf_scNone" text="No implement with sections"/>
+        <text name="vtpas_tm_mf_scSection" text="Section %d"/>
+        <text name="vtpas_tm_mf_scWidth" text="Working width"/>
+        <text name="vtpas_tm_mf_scInfo" text="Section info"/>
+        <text name="vtpas_tm_mf_scType" text="Implement type"/>
+        <text name="vtpas_tm_mf_scDefault" text="Default"/>
+        <text name="vtpas_tm_mf_scAdjusted" text="Adjusted"/>
+        <text name="vtpas_tm_mf_tkTask" text="Task %d"/>
+        <text name="vtpas_tm_mf_tkFuelW" text="Fuel working / not working"/>
+        <text name="vtpas_tm_mf_tkFuel" text="Total fuel"/>
+        <text name="vtpas_tm_mf_tkTime" text="Time working / not working"/>
+        <text name="vtpas_tm_mf_tkTimeL" text="Lifetime time working / not working"/>
+        <text name="vtpas_tm_mf_tkDist" text="Distance working / not working"/>
+        <text name="vtpas_tm_mf_tkDistL" text="Lifetime dist. working / not working"/>
+        <text name="vtpas_tm_mf_tkArea" text="Worked area"/>
+        <text name="vtpas_tm_mf_tkField" text="Field"/>
+        <text name="vtpas_tm_mf_tkFieldN" text="Field %s"/>
+        <text name="vtpas_tm_mf_tkNoField" text="Off field"/>
+        <text name="vtpas_tm_mf_tkNoContract" text="No contract"/>
+        <text name="vtpas_tm_mf_tkForSale" text="For sale"/>
+        <text name="vtpas_tm_mf_tkAreaV" text="Area: %s"/>
+        <text name="vtpas_tm_mf_tkOwner" text="Owner: %s"/>
+        <text name="vtpas_tm_mf_tkCrop" text="Crop: %s"/>
+        <text name="vtpas_tm_mf_tkReward" text="Reward: %s"/>
+        <text name="vtpas_tm_mf_tkProgress" text="Progress: %d %%"/>
+        <text name="vtpas_tm_mf_tkMoney" text="Money: %s"/>
+        <text name="vtpas_tm_mf_tkDriver" text="Driver: %s"/>
+        <text name="vtpas_tm_mf_tkDriving" text="Driving: %s"/>
+        <text name="vtpas_tm_mf_tkRec" text="Task %d: recording"/>
+        <text name="vtpas_tm_mf_tkPaused" text="Task %d: paused"/>
+        <text name="vtpas_tm_mf_tkTcOff" text="Task %d: TC off"/>
+        <text name="vtpas_tm_mf_tkNew" text="New task"/>
+        <text name="vtpas_tm_mf_tkNewQ" text="Reset task %d to zero?"/>
+        <text name="vtpas_tm_mf_tkFilterOn" text="Counts only on the chosen field"/>
+        <text name="vtpas_tm_mf_camBig" text="Rear camera: in the large window (tap the date)"/>
+        <text name="vtpas_tm_df_motor" text="Engine and transmission"/>
+        <text name="vtpas_tm_df_rpm" text="rpm"/>
+        <text name="vtpas_tm_df_hitchR" text="Rear hitch"/>
+        <text name="vtpas_tm_df_hitchF" text="Front hitch"/>
+        <text name="vtpas_tm_df_lowered" text="Lowered"/>
+        <text name="vtpas_tm_df_raised" text="Raised"/>
+        <text name="vtpas_tm_df_theme" text="iMonitor theme"/>
+        <text name="vtpas_tm_df_homeTitle" text="Choose the home screen"/>
+        <text name="vtpas_tm_df_homeShort" text="Home"/>
+        <text name="vtpas_tm_df_ctName" text="ComfortTip"/>
+        <text name="vtpas_tm_df_cancel" text="Cancel"/>
+        <text name="vtpas_tm_df_cpGrp" text="Settings"/>
+        <text name="vtpas_tm_df_cpVeh" text="Vehicle"/>
+        <text name="vtpas_tm_df_cpPage" text="Page %d / %d"/>
+        <text name="vtpas_tm_df_cpGoStop" text="START / STOP"/>
+        <text name="vtpas_tm_df_cpMap" text="GUIDANCE MAP"/>
+        <text name="vtpas_tm_df_mnWork" text="Work map"/>
+        <text name="vtpas_tm_df_mnTool" text="Implement"/>
+        <text name="vtpas_tm_df_mnCount" text="Counters"/>
+        <text name="vtpas_tm_df_mGuide" text="Guidance"/>
+        <text name="vtpas_tm_df_mnSettings" text="Settings"/>
+        <text name="vtpas_tm_df_mnHome" text="Home"/>
+        <text name="vtpas_tm_df_mPan" text="Pan"/>
+        <text name="vtpas_tm_df_mLines" text="Lines"/>
+        <text name="vtpas_tm_df_mView" text="View"/>
+        <text name="vtpas_tm_df_mLayers" text="Layers"/>
+        <text name="vtpas_tm_df_mField" text="Field"/>
+        <text name="vtpas_tm_df_mZoomOut" text="Zoom -"/>
+        <text name="vtpas_tm_df_mZoomIn" text="Zoom +"/>
+        <text name="vtpas_tm_df_mCourse" text="Course"/>
+        <text name="vtpas_tm_df_mLane" text="Lane"/>
+        <text name="vtpas_tm_df_mSteer" text="Steering"/>
+        <text name="vtpas_tm_df_mCp" text="Courseplay"/>
+        <text name="vtpas_tm_df_config" text="Configurations"/>
+        <text name="vtpas_tm_df_ctIn" text="Field entry"/>
+        <text name="vtpas_tm_df_ctOut" text="Field exit"/>
+        <text name="vtpas_tm_df_asmOn" text="ASM management on"/>
+        <text name="vtpas_tm_df_asmOff" text="ASM management off"/>
+        <text name="vtpas_tm_df_asmAngle" text="Steering"/>
+        <text name="vtpas_tm_df_asmSpeed" text="Speed"/>
+        <text name="vtpas_tm_df_asm4wd" text="4WD"/>
+        <text name="vtpas_tm_df_asmDiff" text="Diff lock"/>
+        <text name="vtpas_tm_df_asmSteer" text="Current steering"/>
+        <text name="vtpas_tm_df_valves" text="Remote valves"/>
+        <text name="vtpas_tm_df_valveHint" text="Tap: remote valve functions"/>
+        <text name="vtpas_tm_df_valveHint2" text="Pick a remote valve below"/>
+        <text name="vtpas_tm_df_themeAuto" text="Auto (day / night)"/>
+        <text name="vtpas_tm_df_themeLight" text="Light"/>
+        <text name="vtpas_tm_df_themeDark" text="Dark"/>
+        <text name="vtpas_tm_jd_aDamage" text="Machine wear: %d %%"/>
+        <text name="vtpas_tm_jd_aDef" text="DEF low: %d %%"/>
+        <text name="vtpas_tm_jd_aFuel" text="Low fuel: %d %%"/>
+        <text name="vtpas_tm_jd_aNone" text="No alerts"/>
+        <text name="vtpas_tm_jd_aRtk" text="RTK signal lost"/>
+        <text name="vtpas_tm_jd_aSlip" text="High wheel slip: %d %%"/>
+        <text name="vtpas_tm_jd_aTank" text="Tank almost full"/>
+        <text name="vtpas_tm_jd_aTemp" text="Engine hot: %d °C"/>
+        <text name="vtpas_tm_jd_aToolEmpty" text="%s almost empty"/>
+        <text name="vtpas_tm_jd_alerts" text="Alerts"/>
+        <text name="vtpas_tm_jd_area" text="Area"/>
+        <text name="vtpas_tm_jd_cArea" text="Area worked"/>
+        <text name="vtpas_tm_jd_cDist" text="Distance"/>
+        <text name="vtpas_tm_jd_cDone" text="Field done"/>
+        <text name="vtpas_tm_jd_cEngine" text="Engine"/>
+        <text name="vtpas_tm_jd_cFarm" text="Farm / Field"/>
+        <text name="vtpas_tm_jd_cField" text="Field"/>
+        <text name="vtpas_tm_jd_cFuel" text="Fuel used"/>
+        <text name="vtpas_tm_jd_cFuelH" text="Fuel rate"/>
+        <text name="vtpas_tm_jd_cFuelHa" text="Fuel / ha"/>
+        <text name="vtpas_tm_jd_cHours" text="Engine hours"/>
+        <text name="vtpas_tm_jd_cMachine" text="Machine"/>
+        <text name="vtpas_tm_jd_cNext" text="Next job"/>
+        <text name="vtpas_tm_jd_cRate" text="Work rate"/>
+        <text name="vtpas_tm_jd_cReset" text="Reset"/>
+        <text name="vtpas_tm_jd_cRpm" text="Engine speed"/>
+        <text name="vtpas_tm_jd_cTask" text="Current job"/>
+        <text name="vtpas_tm_jd_cTime" text="Time"/>
+        <text name="vtpas_tm_jd_cam" text="Camera"/>
+        <text name="vtpas_tm_jd_camNone" text="No camera"/>
+        <text name="vtpas_tm_jd_count" text="Work monitor"/>
+        <text name="vtpas_tm_jd_cpMenu" text="Courseplay menu"/>
+        <text name="vtpas_tm_jd_fHarvest" text="Harvest"/>
+        <text name="vtpas_tm_jd_forage" text="Forage harvester"/>
+        <text name="vtpas_tm_jd_fuel" text="Fuel"/>
+        <text name="vtpas_tm_jd_guide" text="Guidance"/>
+        <text name="vtpas_tm_jd_hDown" text="Drop rate"/>
+        <text name="vtpas_tm_jd_hFloat" text="Float"/>
+        <text name="vtpas_tm_jd_hMix" text="Depth / draft mix"/>
+        <text name="vtpas_tm_jd_hPos" text="Position"/>
+        <text name="vtpas_tm_jd_hSlip" text="Slip limit"/>
+        <text name="vtpas_tm_jd_hUp" text="Raise rate"/>
+        <text name="vtpas_tm_jd_hUpper" text="Upper limit"/>
+        <text name="vtpas_tm_jd_hitch" text="Hitch"/>
+        <text name="vtpas_tm_jd_hitchF" text="Front hitch"/>
+        <text name="vtpas_tm_jd_hitchR" text="Rear hitch"/>
+        <text name="vtpas_tm_jd_iso" text="ISOBUS VT"/>
+        <text name="vtpas_tm_jd_kAutoTrac" text="AutoTrac"/>
+        <text name="vtpas_tm_jd_kFlag" text="Flags"/>
+        <text name="vtpas_tm_jd_kGuide" text="Guidance"/>
+        <text name="vtpas_tm_jd_kHelp" text="Help"/>
+        <text name="vtpas_tm_jd_kIso" text="ISOBUS VT"/>
+        <text name="vtpas_tm_jd_kLine" text="Quick line"/>
+        <text name="vtpas_tm_jd_kMenu" text="Menu"/>
+        <text name="vtpas_tm_jd_kSC" text="Auto sections"/>
+        <text name="vtpas_tm_jd_kSection" text="Sections"/>
+        <text name="vtpas_tm_jd_kSetup" text="Setup"/>
+        <text name="vtpas_tm_jd_kSound" text="Sound"/>
+        <text name="vtpas_tm_jd_kSwap" text="Shift track"/>
+        <text name="vtpas_tm_jd_kWork" text="Work"/>
+        <text name="vtpas_tm_jd_lAll" text="All on"/>
+        <text name="vtpas_tm_jd_lBeacon" text="Beacon"/>
+        <text name="vtpas_tm_jd_lField" text="Field"/>
+        <text name="vtpas_tm_jd_lHazard" text="Hazard"/>
+        <text name="vtpas_tm_jd_lNone" text="All off"/>
+        <text name="vtpas_tm_jd_lRoad" text="Road"/>
+        <text name="vtpas_tm_jd_lights" text="Lights"/>
+        <text name="vtpas_tm_jd_mSc" text="Sections"/>
+        <text name="vtpas_tm_jd_mSet" text="Settings"/>
+        <text name="vtpas_tm_jd_map" text="Map"/>
+        <text name="vtpas_tm_jd_maxRpm" text="Max engine speed"/>
+        <text name="vtpas_tm_jd_mnApps" text="Applications"/>
+        <text name="vtpas_tm_jd_mnMachine" text="Machine settings"/>
+        <text name="vtpas_tm_jd_mnSystem" text="System"/>
+        <text name="vtpas_tm_jd_next" text="Next"/>
+        <text name="vtpas_tm_jd_off" text="Off"/>
+        <text name="vtpas_tm_jd_on" text="On"/>
+        <text name="vtpas_tm_jd_power" text="Power"/>
+        <text name="vtpas_tm_jd_pto" text="PTO"/>
+        <text name="vtpas_tm_jd_ptoAuto" text="Auto PTO"/>
+        <text name="vtpas_tm_jd_ptoEco" text="PTO speed"/>
+        <text name="vtpas_tm_jd_ptoExt" text="External control"/>
+        <text name="vtpas_tm_jd_ptoF" text="Front PTO"/>
+        <text name="vtpas_tm_jd_ptoOff" text="Off above"/>
+        <text name="vtpas_tm_jd_ptoOn" text="On below"/>
+        <text name="vtpas_tm_jd_ptoR" text="Rear PTO"/>
+        <text name="vtpas_tm_jd_ptoReset" text="Defaults"/>
+        <text name="vtpas_tm_jd_ptoScv" text="SCVs"/>
+        <text name="vtpas_tm_jd_rbCourse" text="Course"/>
+        <text name="vtpas_tm_jd_rbCover" text="Coverage"/>
+        <text name="vtpas_tm_jd_rbCp" text="Courseplay"/>
+        <text name="vtpas_tm_jd_rbLane" text="Lane"/>
+        <text name="vtpas_tm_jd_rbRec" text="Record"/>
+        <text name="vtpas_tm_jd_rbView" text="View"/>
+        <text name="vtpas_tm_jd_sc" text="Section control"/>
+        <text name="vtpas_tm_jd_scBoom" text="Boom"/>
+        <text name="vtpas_tm_jd_scDelays" text="On / off delays"/>
+        <text name="vtpas_tm_jd_scOverlap" text="Overlap"/>
+        <text name="vtpas_tm_jd_set" text="AutoSwitch settings"/>
+        <text name="vtpas_tm_jd_setMain" text="General"/>
+        <text name="vtpas_tm_jd_slip" text="Wheel slip"/>
+        <text name="vtpas_tm_jd_speed" text="Speed"/>
+        <text name="vtpas_tm_jd_tbPan" text="Pan"/>
+        <text name="vtpas_tm_jd_tbWork" text="Work"/>
+        <text name="vtpas_tm_jd_tbZoomIn" text="Zoom +"/>
+        <text name="vtpas_tm_jd_tbZoomOut" text="Zoom -"/>
+        <text name="vtpas_tm_jd_trFwd" text="Forward"/>
+        <text name="vtpas_tm_jd_trGear" text="Gear"/>
+        <text name="vtpas_tm_jd_trMode" text="Transmission mode"/>
+        <text name="vtpas_tm_jd_trRev" text="Reverse"/>
+        <text name="vtpas_tm_jd_trac" text="Tractor"/>
+        <text name="vtpas_tm_jd_trans" text="Transmission"/>
+        <text name="vtpas_tm_jd_vApply" text="Tap to operate"/>
+        <text name="vtpas_tm_jd_vFlow" text="Flow"/>
+        <text name="vtpas_tm_jd_vFns" text="Functions"/>
+        <text name="vtpas_tm_jd_vHold" text="Detent"/>
+        <text name="vtpas_tm_jd_vInf" text="Detent"/>
+        <text name="vtpas_tm_jd_vMode" text="Mode"/>
+        <text name="vtpas_tm_jd_vNoTimer" text="No timer"/>
+        <text name="vtpas_tm_jd_vTimer" text="Timer"/>
+        <text name="vtpas_tm_jd_vValve" text="SCV"/>
+        <text name="vtpas_tm_jd_valves" text="SCVs"/>
+        <text name="vtpas_tm_jd_xte" text="Off-track"/>
+        <text name="vtpas_tm_jd_cTimeW" text="Time working"/>
+        <text name="vtpas_tm_jd_cFuelW" text="Fuel used working"/>
+        <text name="vtpas_tm_jd_cDistW" text="Distance working"/>
+        <text name="vtpas_tm_jd_cAvgSpd" text="Average speed"/>
+        <text name="vtpas_tm_jd_cWorkSpd" text="Working speed"/>
+        <text name="vtpas_tm_jd_cAvgFuelH" text="Average fuel rate"/>
+    </texts>
+</l10n>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="106">
+    <author>Fabien</author>
+    <version>1.0.0.1</version>
+    <multiplayer supported="true"/>
+
+    <title>
+        <en>AutoSwitch Tablet</en>
+        <fr>AutoSwitch Tablette</fr>
+        <de>AutoSwitch Tablet</de>
+    </title>
+
+    <description>
+        <en><![CDATA[Add-on for AutoSwitch: on-board terminal (Right Ctrl + T) and 3D tablets in the cab, in the style of each brand's real terminal (touch screen: Right Ctrl + Y, function keys: Right Ctrl + 1 to 4).
+
+Requires AutoSwitch.
+Recommended: Courseplay (guidance, courses) and FarmPilot (routes, destinations). Their pages and buttons only appear on the tablets when they are installed.]]></en>
+        <fr><![CDATA[Extension d'AutoSwitch : terminal de bord (Ctrl droit + T) et tablettes 3D dans la cabine, à l'image du vrai terminal de chaque marque (écran tactile : Ctrl droit + Y, touches de fonction : Ctrl droit + 1 à 4).
+
+Nécessite AutoSwitch.
+Conseillés : Courseplay (guidage, parcours) et FarmPilot (routes, destinations). Leurs pages et boutons n'apparaissent sur les tablettes que s'ils sont installés.]]></fr>
+        <de><![CDATA[Erweiterung für AutoSwitch: Bordterminal (Strg rechts + T) und 3D-Tablets in der Kabine, nach dem Vorbild des echten Terminals jeder Marke (Touchscreen: Strg rechts + Y, Funktionstasten: Strg rechts + 1 bis 4).
+
+Benötigt AutoSwitch.
+Empfohlen: Courseplay (Lenkung, Kurse) und FarmPilot (Routen, Ziele). Ihre Seiten und Tasten erscheinen auf den Tablets nur, wenn sie installiert sind.]]></de>
+    </description>
+
+    <iconFilename>icon_AutoSwitchTablette.dds</iconFilename>
+
+    <dependencies>
+        <dependency>FS25_AutoSwitch</dependency>
+    </dependencies>
+
+    <l10n filenamePrefix="l10n/l10n"/>
+
+    <actions>
+        <action name="AS_TERMINAL" category="VEHICLE"/>
+        <action name="AS_TERMINAL_TOUCH" category="VEHICLE"/>
+        <action name="AS_FKEY1" category="VEHICLE"/>
+        <action name="AS_FKEY2" category="VEHICLE"/>
+        <action name="AS_FKEY3" category="VEHICLE"/>
+        <action name="AS_FKEY4" category="VEHICLE"/>
+    </actions>
+    <inputBinding>
+        <actionBinding action="AS_TERMINAL">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_t"/>
+        </actionBinding>
+        <actionBinding action="AS_TERMINAL_TOUCH">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_y"/>
+        </actionBinding>
+        <actionBinding action="AS_FKEY1">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_1"/>
+        </actionBinding>
+        <actionBinding action="AS_FKEY2">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_2"/>
+        </actionBinding>
+        <actionBinding action="AS_FKEY3">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_3"/>
+        </actionBinding>
+        <actionBinding action="AS_FKEY4">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_rctrl KEY_4"/>
+        </actionBinding>
+    </inputBinding>
+    <extraSourceFiles>
+        <sourceFile filename="AutoSwitchTablette.lua"/>
+    </extraSourceFiles>
+</modDesc>

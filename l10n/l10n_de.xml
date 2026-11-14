@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <text name="vtpas_decimal" text=","/>
+        <text name="input_AS_TERMINAL" text="Terminal: anzeigen / ausblenden"/>
+        <text name="input_AS_TERMINAL_TOUCH" text="Terminal: Touch-Modus (Mauszeiger)"/>
+        <text name="input_AS_FKEY1" text="Funktionstaste 1 (Armlehne)"/>
+        <text name="input_AS_FKEY2" text="Funktionstaste 2 (Armlehne)"/>
+        <text name="input_AS_FKEY3" text="Funktionstaste 3 (Armlehne)"/>
+        <text name="input_AS_FKEY4" text="Funktionstaste 4 (Armlehne)"/>
+        <text name="vtpas_tm_auto" text="AUTO"/>
+        <text name="vtpas_tm_manual" text="MANUELL"/>
+        <text name="vtpas_tm_b_guide" text="LENKUNG"/>
+        <text name="vtpas_tm_b_more" text="MEHR"/>
+        <text name="vtpas_tm_b_back" text="ZURÜCK"/>
+        <text name="vtpas_tm_b_lift" text="HUBWERK"/>
+        <text name="vtpas_tm_b_on" text="EIN / AUS"/>
+        <text name="vtpas_tm_b_set" text="EINST."/>
+        <text name="vtpas_tm_c_tabMap" text="Karte"/>
+        <text name="vtpas_tm_c_tabHitch" text="Hubwerk"/>
+        <text name="vtpas_tm_c_tabCam" text="Kamera"/>
+        <text name="vtpas_tm_c_cpSave" text="Speichern"/>
+        <text name="vtpas_tm_c_cpSaved" text="Kurs gespeichert: %s"/>
+        <text name="vtpas_tm_c_cpSaveErr" text="Kurs konnte nicht gespeichert werden"/>
+        <text name="vtpas_tm_c_cpNoCourseSave" text="Kein Kurs zum Speichern"/>
+        <text name="vtpas_tm_c_cpReset" text="ZURÜCKSETZEN"/>
+        <text name="vtpas_tm_c_rcLights" text="Licht"/>
+        <text name="vtpas_tm_c_rcCc" text="Konfig. Bedienung"/>
+        <text name="vtpas_tm_c_rcRemotes" text="Steuergeräte"/>
+        <text name="vtpas_tm_c_camOff" text="RÜCKFAHRKAMERA: AUS (zum Einschalten berühren)"/>
+        <text name="vtpas_tm_c_slip" text="Schlupf"/>
+        <text name="vtpas_tm_c_fuelLevel" text="Kraftstoffstand"/>
+        <text name="vtpas_tm_c_engineHours" text="Betriebsstunden"/>
+        <text name="vtpas_tm_c_oilPress" text="Motoröldruck"/>
+        <text name="vtpas_tm_c_intakeTemp" text="Ansauglufttemp."/>
+        <text name="vtpas_tm_c_hitchRPos" text="Position Heckhubwerk"/>
+        <text name="vtpas_tm_c_defLevel" text="AdBlue-Stand"/>
+        <text name="vtpas_tm_c_transTemp" text="Getriebeöltemp."/>
+        <text name="vtpas_tm_c_hitchFPos" text="Position Fronthubwerk"/>
+        <text name="vtpas_tm_c_defTemp" text="AdBlue-Temp."/>
+        <text name="vtpas_tm_c_transPress" text="Getriebeöldruck"/>
+        <text name="vtpas_tm_c_airBrake" text="Druckluftbremse"/>
+        <text name="vtpas_tm_c_voltage" text="Bordspannung"/>
+        <text name="vtpas_tm_c_ptoR" text="Zapfwelle hinten"/>
+        <text name="vtpas_tm_c_ptoF" text="Zapfwelle vorne"/>
+        <text name="vtpas_tm_c_workRateAvg" text="Mittlere Flächenleistung"/>
+        <text name="vtpas_tm_c_fuelUsed" text="Verbrauchter Kraftstoff"/>
+        <text name="vtpas_tm_c_fuelUsedWork" text="Kraftstoff bei der Arbeit"/>
+        <text name="vtpas_tm_c_fuelAvg" text="Mittlerer Verbrauch"/>
+        <text name="vtpas_tm_c_workTime" text="Arbeitszeit"/>
+        <text name="vtpas_tm_c_flowRetract" text="Durchfluss Einfahren"/>
+        <text name="vtpas_tm_c_flowExtend" text="Durchfluss Ausfahren"/>
+        <text name="vtpas_tm_c_engineMode" text="Motormodus"/>
+        <text name="vtpas_tm_c_timer" text="Timer"/>
+        <text name="vtpas_tm_c_menu" text="Menü"/>
+        <text name="vtpas_tm_c_lock" text="SPERREN"/>
+        <text name="vtpas_tm_c_unlock" text="ENTSPERREN"/>
+        <text name="vtpas_tm_c_locked" text="Verriegelt (aktiv)"/>
+        <text name="vtpas_tm_c_unlockedSt" text="Entriegelt (inaktiv)"/>
+        <text name="vtpas_tm_c_lockHint" text="Aktiv: der Pfeil oben hebt / senkt es"/>
+        <text name="vtpas_tm_c_lockedWarn" text="Inaktives Hubwerk: der Pfeil oben überspringt es"/>
+        <text name="vtpas_tm_c_rs_lift_up" text="Hubwerk: Gehoben"/>
+        <text name="vtpas_tm_c_rs_lift_dn" text="Hubwerk: Gesenkt"/>
+        <text name="vtpas_tm_c_rs_on_on" text="Antrieb: Ein"/>
+        <text name="vtpas_tm_c_rs_on_off" text="Antrieb: Aus"/>
+        <text name="vtpas_tm_c_rs_fold_in" text="Klappen: Eingeklappt"/>
+        <text name="vtpas_tm_c_rs_fold_out" text="Klappen: Ausgeklappt"/>
+        <text name="vtpas_tm_c_rs_tip_on" text="Kipper: Gehoben"/>
+        <text name="vtpas_tm_c_rs_tip_off" text="Kipper: Gesenkt"/>
+        <text name="vtpas_tm_c_rs_cover_close" text="Plane: Geschlossen"/>
+        <text name="vtpas_tm_c_rs_cover_open" text="Plane: Offen"/>
+        <text name="vtpas_tm_c_apply" text="ANWENDEN"/>
+        <text name="vtpas_tm_c_sideF" text="Front"/>
+        <text name="vtpas_tm_c_sideR" text="Heck"/>
+        <text name="vtpas_tm_c_sideB" text="F+H"/>
+        <text name="vtpas_tm_c_colF" text="Front"/>
+        <text name="vtpas_tm_c_colR" text="Heck"/>
+        <text name="vtpas_tm_c_colB" text="Beide"/>
+        <text name="vtpas_tm_c_remote" text="Funktion"/>
+        <text name="vtpas_tm_c_run" text="AUSFÜHREN"/>
+        <text name="vtpas_tm_c_remoteNone" text="Funktion ohne Einstellung"/>
+        <text name="vtpas_tm_c_liftAll" text="ALLE HEBEN"/>
+        <text name="vtpas_tm_c_lowerAll" text="ALLE SENKEN"/>
+        <text name="vtpas_tm_c_drive" text="Antrieb"/>
+        <text name="vtpas_tm_c_fold" text="Klappen"/>
+        <text name="vtpas_tm_c_tip" text="Kipper"/>
+        <text name="vtpas_tm_c_cover" text="Plane"/>
+        <text name="vtpas_tm_c_p2_hours" text="Motorstunden"/>
+        <text name="vtpas_tm_c_p2_rate" text="Mittlere Flächenleistung"/>
+        <text name="vtpas_tm_c_p2_fuel" text="Kraftstoff verbraucht"/>
+        <text name="vtpas_tm_c_p2_fuelWork" text="Kraftstoff bei Arbeit"/>
+        <text name="vtpas_tm_c_p2_fuelAvg" text="Mittl. Verbrauch bei Arbeit"/>
+        <text name="vtpas_tm_c_p2_time" text="Arbeitszeit"/>
+        <text name="vtpas_tm_c_tempOut" text="Außentemp."/>
+        <text name="vtpas_tm_c_spreader" text="Häckselverteiler"/>
+        <text name="vtpas_tm_c_coolant" text="Motortemp."/>
+        <text name="vtpas_tm_b_stop" text="STOPP"/>
+        <text name="vtpas_tm_back" text="ZURÜCK"/>
+        <text name="vtpas_tm_beeps" text="Töne und Alarme"/>
+        <text name="vtpas_tm_theme" text="Design"/>
+        <text name="vtpas_tm_themeDark" text="Dunkel"/>
+        <text name="vtpas_tm_themeLight" text="Hell"/>
+        <text name="vtpas_tm_cab" text="Kabine"/>
+        <text name="vtpas_tm_out" text="außen"/>
+        <text name="vtpas_tm_change" text="ÄNDERN"/>
+        <text name="vtpas_tm_cons" text="Verbrauch"/>
+        <text name="vtpas_tm_cover" text="Fläche"/>
+        <text name="vtpas_tm_cruise" text="Tempomat"/>
+        <text name="vtpas_tm_damage" text="Verschleiß"/>
+        <text name="vtpas_tm_dist" text="Strecke"/>
+        <text name="vtpas_tm_drive" text="Antrieb"/>
+        <text name="vtpas_tm_empty" text="Frei"/>
+        <text name="vtpas_tm_field" text="Feld %s"/>
+        <text name="vtpas_tm_fieldArea" text="Feldgröße"/>
+        <text name="vtpas_tm_folded" text="Eingeklappt"/>
+        <text name="vtpas_tm_unfolded" text="Ausgeklappt"/>
+        <text name="vtpas_tm_free" text="Offen"/>
+        <text name="vtpas_tm_locked" text="Gesperrt"/>
+        <text name="vtpas_tm_fuel" text="Kraftstoff"/>
+        <text name="vtpas_tm_fuelLow" text="%s: Kraftstoffreserve (%d %%)"/>
+        <text name="vtpas_tm_fuelUsed" text="Kraftstoff"/>
+        <text name="vtpas_tm_gear" text="Gang"/>
+        <text name="vtpas_tm_height" text="Höhe"/>
+        <text name="vtpas_tm_hitchF" text="Fronthubwerk"/>
+        <text name="vtpas_tm_hitchR" text="Heckhubwerk"/>
+        <text name="vtpas_tm_hitchPickup" text="Pick-up des Geräts"/>
+        <text name="vtpas_tm_hitchTool" text="Hub des Geräts"/>
+        <text name="vtpas_tm_hours" text="Arbeitsstunden"/>
+        <text name="vtpas_tm_job" text="AUFTRAG %d"/>
+        <text name="vtpas_tm_jobN1" text="Auftrag 1"/>
+        <text name="vtpas_tm_jobN2" text="Auftrag 2"/>
+        <text name="vtpas_tm_total" text="Gesamt"/>
+        <text name="vtpas_tm_loadP" text="Motorlast"/>
+        <text name="vtpas_tm_loc" text="Ort"/>
+        <text name="vtpas_tm_lockF" text="Diffsperre vorn"/>
+        <text name="vtpas_tm_lockR" text="Diffsperre hinten"/>
+        <text name="vtpas_tm_lowered" text="Gesenkt"/>
+        <text name="vtpas_tm_raised" text="Angehoben"/>
+        <text name="vtpas_tm_mapSoon" text="Abdeckungskarte und Spuren: nächste Version"/>
+        <text name="vtpas_tm_mode" text="AutoSwitch-Modus"/>
+        <text name="vtpas_tm_motor" text="Motor"/>
+        <text name="vtpas_tm_move" text="Terminal verschieben"/>
+        <text name="vtpas_tm_moveHow" text="Touch-Modus (Strg rechts + Y), oberen Rahmen (AutoSwitch-Logo) ziehen"/>
+        <text name="vtpas_tm_no" text="Nein"/>
+        <text name="vtpas_tm_yes" text="Ja"/>
+        <text name="vtpas_tm_noTool" text="Kein Gerät angehängt"/>
+        <text name="vtpas_tm_none" text="Keine"/>
+        <text name="vtpas_tm_off" text="Aus"/>
+        <text name="vtpas_tm_on" text="An"/>
+        <text name="vtpas_tm_opHours" text="Betriebsstunden"/>
+        <text name="vtpas_tm_outField" text="Außerhalb"/>
+        <text name="vtpas_tm_p_cam" text="KAMERA"/>
+        <text name="vtpas_tm_p_count" text="ZÄHLER"/>
+        <text name="vtpas_tm_cl_transmission" text="Getriebe"/>
+        <text name="vtpas_tm_cl_hitch" text="Kraftheber"/>
+        <text name="vtpas_tm_cl_hydraulic" text="Hydraulik"/>
+        <text name="vtpas_tm_cl_csm" text="Spurführung"/>
+        <text name="vtpas_tm_cl_steering" text="Lenkung"/>
+        <text name="vtpas_tm_cl_tasks" text="Isobus"/>
+        <text name="vtpas_tm_cl_h_title" text="Steuergeräte hinten"/>
+        <text name="vtpas_tm_cl_h_sub" text="Einstellung der Steuergeräte"/>
+        <text name="vtpas_tm_cl_h_counter" text="Zähler"/>
+        <text name="vtpas_tm_cl_h_assign" text="Zuordnung Bedienhebel"/>
+        <text name="vtpas_tm_cl_h_prio" text="Priorität"/>
+        <text name="vtpas_tm_cl_h_fender" text="Kotflügeltasten"/>
+        <text name="vtpas_tm_cl_h_lock" text="Sperre"/>
+        <text name="vtpas_tm_cl_h_fns" text="Funktionen"/>
+        <text name="vtpas_tm_cl_h_flow" text="Durchflusseinstellung"/>
+        <text name="vtpas_tm_cl_h_resp" text="Ansprechzeit"/>
+        <text name="vtpas_tm_cl_h_adjust" text="Hydraulikeinstellungen"/>
+        <text name="vtpas_tm_cl_h_flowM" text="Max. Fördermenge (-)"/>
+        <text name="vtpas_tm_cl_h_flowP" text="Max. Fördermenge (+)"/>
+        <text name="vtpas_tm_cl_h_respM" text="Ansprechzeit (-)"/>
+        <text name="vtpas_tm_cl_h_respP" text="Ansprechzeit (+)"/>
+        <text name="vtpas_tm_cl_h_timer" text="Zeitsteuerung"/>
+        <text name="vtpas_tm_cl_h_lockedMsg" text="Funktion gesperrt (Seite Hydraulik)"/>
+        <text name="vtpas_tm_cl_t_title_r" text="Heckkraftheber"/>
+        <text name="vtpas_tm_cl_t_title_f" text="Frontkraftheber"/>
+        <text name="vtpas_tm_cl_t_sub" text="Krafthebereinstellungen"/>
+        <text name="vtpas_tm_cl_t_stab" text="Hydraulische Stabilisatoren"/>
+        <text name="vtpas_tm_cl_t_upper" text="Hubhöhenbegrenzung"/>
+        <text name="vtpas_tm_cl_t_speed" text="Senkgeschwindigkeit"/>
+        <text name="vtpas_tm_cl_t_mix" text="Mischregelung"/>
+        <text name="vtpas_tm_cl_t_slip" text="Schlupfregelung"/>
+        <text name="vtpas_tm_cl_t_draft" text="Zugkraftregelung"/>
+        <text name="vtpas_tm_cl_t_centre" text="Zentrierung Kraftheber"/>
+        <text name="vtpas_tm_cl_t_mode" text="Stabilisatormodus"/>
+        <text name="vtpas_tm_cl_t_confirm" text="Modus bestätigen"/>
+        <text name="vtpas_tm_cl_t_float" text="Pendelnd"/>
+        <text name="vtpas_tm_cl_t_centred" text="Zentriert"/>
+        <text name="vtpas_tm_cl_t_autom" text="Automatik"/>
+        <text name="vtpas_tm_cl_p_tab" text="ZW"/>
+        <text name="vtpas_tm_cl_p_title" text="Heckzapfwelle"/>
+        <text name="vtpas_tm_cl_p_sub" text="Zapfwelleneinstellungen"/>
+        <text name="vtpas_tm_cl_p_set" text="Zapfwellensteuerung"/>
+        <text name="vtpas_tm_cl_p_aon" text="Einschalthöhe (Senken)"/>
+        <text name="vtpas_tm_cl_p_aoff" text="Abschalthöhe (Heben)"/>
+        <text name="vtpas_tm_cl_p_none" text="Kein Zapfwellengerät"/>
+        <text name="vtpas_tm_cl_p_running" text="Zapfwelle läuft"/>
+        <text name="vtpas_tm_cl_p_stopped" text="Zapfwelle aus"/>
+        <text name="vtpas_tm_cl_p_mode" text="Zapfwellendrehzahl"/>
+        <text name="vtpas_tm_cl_p_autoTxt" text="Aus über %d %%, ein unter %d %%"/>
+        <text name="vtpas_tm_cl_p_autoOff" text="Aus"/>
+        <text name="vtpas_tm_cl_p_doRun" text="EIN"/>
+        <text name="vtpas_tm_cl_p_doStop" text="AUS"/>
+        <text name="vtpas_tm_cl_q_title" text="Schnellzugriff"/>
+        <text name="vtpas_tm_cl_q_short" text="Kurzwahl"/>
+        <text name="vtpas_tm_cl_q_setup" text="Schnellzugriff einrichten"/>
+        <text name="vtpas_tm_cl_q_open" text="Einrichten"/>
+        <text name="vtpas_tm_cl_q_slot" text="Feld %d"/>
+        <text name="vtpas_tm_cl_q_auto" text="Umschalten AUTO / MANUELL"/>
+        <text name="vtpas_tm_cl_q_light" text="Beleuchtung (alle an / aus)"/>
+        <text name="vtpas_tm_cl_q_task" text="Neuer Auftrag (Zähler auf null)"/>
+        <text name="vtpas_tm_cl_q_line" text="Gerade Spur (Spurführung)"/>
+        <text name="vtpas_tm_cl_q_hyd" text="Steuergeräte"/>
+        <text name="vtpas_tm_cl_q_pto" text="Zapfwelle"/>
+        <text name="vtpas_tm_cl_k_title" text="Funktionstasten"/>
+        <text name="vtpas_tm_cl_k_short" text="F-Tasten"/>
+        <text name="vtpas_tm_cl_k_over" text="Übersicht"/>
+        <text name="vtpas_tm_cl_k_assign" text="Belegung der F-Tasten"/>
+        <text name="vtpas_tm_cl_k_info" text="Information"/>
+        <text name="vtpas_tm_cl_k_fns" text="Funktionen"/>
+        <text name="vtpas_tm_cl_k_open" text="Belegen"/>
+        <text name="vtpas_tm_cl_k_c1" text="blau"/>
+        <text name="vtpas_tm_cl_k_c2" text="braun"/>
+        <text name="vtpas_tm_cl_k_c3" text="grün"/>
+        <text name="vtpas_tm_cl_k_c4" text="violett"/>
+        <text name="vtpas_tm_cl_k_noneMsg" text="Funktionstaste %d: keine Funktion belegt"/>
+        <text name="vtpas_tm_cl_counters" text="Zähler"/>
+        <text name="vtpas_tm_cl_day" text="Tag %d"/>
+        <text name="vtpas_tm_cl_rpm" text="U/min"/>
+        <text name="vtpas_tm_cl_onRoad" text="Straße"/>
+        <text name="vtpas_tm_cl_onField" text="Feld"/>
+        <text name="vtpas_tm_cl_load" text="Motorlast"/>
+        <text name="vtpas_tm_cl_slip" text="Schlupf"/>
+        <text name="vtpas_tm_p_home" text="START"/>
+        <text name="vtpas_tm_h_engine" text="MOTOR &amp; GETRIEBE"/>
+        <text name="vtpas_tm_h_light" text="BELEUCHTUNG"/>
+        <text name="vtpas_tm_h_tools" text="GERÄTE"/>
+        <text name="vtpas_tm_h_quick" text="SCHNELLZUGRIFF"/>
+        <text name="vtpas_tm_l_hazard" text="Warnblinker"/>
+        <text name="vtpas_tm_noLights" text="Dieses Fahrzeug hat keine Beleuchtung"/>
+        <text name="vtpas_tm_themeBrand" text="Marke"/>
+        <text name="vtpas_tm_h_machine" text="MASCHINE"/>
+        <text name="vtpas_tm_ic_header" text="Vorsatz"/>
+        <text name="vtpas_tm_ic_rollers" text="Einzug"/>
+        <text name="vtpas_tm_ic_cutter" text="Trommel"/>
+        <text name="vtpas_tm_ic_cracker" text="Cracker"/>
+        <text name="vtpas_tm_ic_blower" text="Beschl."/>
+        <text name="vtpas_tm_ic_spout" text="Krümmer"/>
+        <text name="vtpas_tm_m_swathOn" text="SCHWAD"/>
+        <text name="vtpas_tm_m_chopOn" text="HÄCKSLER"/>
+        <text name="vtpas_tm_m_fanShort" text="Gebl."/>
+        <text name="vtpas_tm_m_rotorShort" text="Rotor"/>
+        <text name="vtpas_tm_noSwath" text="Keine Schwad-/Häckslerumschaltung an dieser Maschine"/>
+        <text name="vtpas_tm_m_noTarget" text="Kein Wagen daneben"/>
+        <text name="vtpas_tm_h_cut" text="SCHNEIDWERK"/>
+        <text name="vtpas_tm_h_bec" text="VORSATZ"/>
+        <text name="vtpas_tm_h_pickup" text="PICK-UP"/>
+        <text name="vtpas_tm_h_harvest" text="ERNTE"/>
+        <text name="vtpas_tm_h_boom" text="GESTÄNGE"/>
+        <text name="vtpas_tm_h_tank" text="TANK"/>
+        <text name="vtpas_tm_noHeader" text="Kein Schneidwerk angebaut"/>
+        <text name="vtpas_tm_l_drive" text="Licht"/>
+        <text name="vtpas_tm_l_high" text="Fernlicht"/>
+        <text name="vtpas_tm_l_workF" text="Arbeit vorne"/>
+        <text name="vtpas_tm_l_workR" text="Arbeit hinten"/>
+        <text name="vtpas_tm_l_beacon" text="Rundumleuchte"/>
+        <text name="vtpas_tm_vehW" text="Bildschirm: Breite"/>
+        <text name="vtpas_tm_vehH" text="Bildschirm: Höhe"/>
+        <text name="vtpas_tm_vehRot" text="Bildschirm: Drehung"/>
+        <text name="vtpas_tm_vehOff" text="Keiner (Tablet)"/>
+        <text name="vtpas_tm_p_tool" text="GERÄT"/>
+        <text name="vtpas_tm_p_harvest" text="MASCHINE"/>
+        <text name="vtpas_tm_p_tractor" text="INFO"/>
+        <text name="vtpas_tm_p_work" text="ARBEIT"/>
+        <text name="vtpas_tm_p_set" text="EINSTELLUNGEN"/>
+        <text name="vtpas_tm_rate" text="Leistung"/>
+        <text name="vtpas_tm_reserve" text="Kraftstoffreserve"/>
+        <text name="vtpas_tm_resetJob" text="ZURÜCKSETZEN"/>
+        <text name="vtpas_tm_resetPos" text="STANDARDPOSITION"/>
+        <text name="vtpas_tm_resetSize" text="STANDARDGRÖSSE"/>
+        <text name="vtpas_tm_rpm" text="Drehzahl"/>
+        <text name="vtpas_tm_savedFor" text="Position gespeichert für"/>
+        <text name="vtpas_tm_show" text="Terminal anzeigen"/>
+        <text name="vtpas_tm_showBoth" text="Kabine und außen"/>
+        <text name="vtpas_tm_showCab" text="Nur Kabine"/>
+        <text name="vtpas_tm_showOut" text="Nur außen"/>
+        <text name="vtpas_tm_size" text="Terminalgröße"/>
+        <text name="vtpas_tm_slip" text="Schlupf"/>
+        <text name="vtpas_tm_c_cruise" text="Tempomat"/>
+        <text name="vtpas_tm_c_power" text="Motorleistung"/>
+        <text name="vtpas_tm_ut_title" text="Universal Terminal"/>
+        <text name="vtpas_tm_c_tyres" text="Reifenverschleiß"/>
+        <text name="vtpas_tm_c_xte" text="Spurabweichung"/>
+        <text name="vtpas_tm_c_colGears" text="Gänge und Geschwindigkeit"/>
+        <text name="vtpas_tm_c_colHitch" text="Hubwerk vorne / hinten"/>
+        <text name="vtpas_tm_c_colTitle" text="Linke Spalte: Feld wählen"/>
+        <text name="vtpas_tm_c_fuelEco" text="Verbrauch Fläche"/>
+        <text name="vtpas_tm_c_workRate" text="Mittlere Leistung"/>
+        <text name="vtpas_tm_c_fuelRate" text="Kraftstoffdurchsatz"/>
+        <text name="vtpas_tm_c_settings" text="Einstellungen"/>
+        <text name="vtpas_tm_c_tractor" text="Traktor"/>
+        <text name="vtpas_tm_l_title" text="Beleuchtung"/>
+        <text name="vtpas_tm_speed" text="Geschwindigkeit"/>
+        <text name="vtpas_tm_temp" text="Motortemperatur"/>
+        <text name="vtpas_tm_touch" text="TOUCH"/>
+        <text name="vtpas_tm_touchStopped" text="Touch nur im Stand"/>
+        <text name="vtpas_tm_touchLocked" text="Touch während der Fahrt gesperrt"/>
+        <text name="vtpas_tm_touchLockedHow" text="Einstellungen: Touch nur im Stand"/>
+        <text name="vtpas_tm_cpHudBlock" text="Courseplay-Fenster sperren"/>
+        <text name="vtpas_tm_cpHudBlocked" text="Courseplay-Fenster gesperrt (AutoSwitch-Terminal, siehe Einstellungen)"/>
+        <text name="vtpas_tm_g_FP" text="FARMPILOT"/>
+        <text name="vtpas_tm_fpStartStop" text="FARMPILOT"/>
+        <text name="vtpas_tm_p_fp" text="FARMPILOT"/>
+        <text name="vtpas_tm_fpMissing" text="FarmPilot fehlt auf diesem Fahrzeug"/>
+        <text name="vtpas_tm_fpMode1" text="Fahren zu"/>
+        <text name="vtpas_tm_fpMode2" text="Abholen und liefern"/>
+        <text name="vtpas_tm_fpMode3" text="Liefern zu"/>
+        <text name="vtpas_tm_fpMode4" text="Laden"/>
+        <text name="vtpas_tm_fpMode5" text="Drescher entladen"/>
+        <text name="vtpas_tm_fpMode6" text="Fahrsilo leeren"/>
+        <text name="vtpas_tm_fpState" text="Status"/>
+        <text name="vtpas_tm_fpRunning" text="AKTIV"/>
+        <text name="vtpas_tm_fpStopped" text="GESTOPPT"/>
+        <text name="vtpas_tm_fpModeL" text="Modus"/>
+        <text name="vtpas_tm_fpChoose" text="WÄHLEN"/>
+        <text name="vtpas_tm_fpTarget" text="Ziel"/>
+        <text name="vtpas_tm_fpUnload" text="Entladen"/>
+        <text name="vtpas_tm_fpFill" text="Fruchtart"/>
+        <text name="vtpas_tm_fpLoops" text="Runden"/>
+        <text name="vtpas_tm_fpLoopsEndless" text="Endlos"/>
+        <text name="vtpas_tm_fpSpeed" text="Tempo Straße"/>
+        <text name="vtpas_tm_fpFieldSpeed" text="Tempo Feld"/>
+        <text name="vtpas_tm_fpAutoPick" text="AUTO LADEN"/>
+        <text name="vtpas_tm_fpAutoUnload" text="AUTO ENTL."/>
+        <text name="vtpas_tm_fpByLevel" text="NACH FÜLLSTAND"/>
+        <text name="vtpas_tm_fpAutoHelper" text="HELFER NEU"/>
+        <text name="vtpas_tm_fpGo" text="START / STOPP"/>
+        <text name="vtpas_tm_fpContinue" text="WEITER"/>
+        <text name="vtpas_tm_fpPark" text="PARKEN"/>
+        <text name="vtpas_tm_fpHelper" text="FELDHELFER"/>
+        <text name="vtpas_tm_fpEdit" text="ROUTEN EDIT."/>
+        <text name="vtpas_tm_fpEditOn" text="Offen"/>
+        <text name="vtpas_tm_fpSettings" text="FP EINSTELL."/>
+        <text name="vtpas_tm_fpFillHint" text="Kästchen = mehrere Fruchtarten"/>
+        <text name="vtpas_tm_fpNoFill" text="Keine Fruchtart für diese Geräte"/>
+        <text name="vtpas_tm_fpNoTarget" text="Kein Ziel auf der Karte"/>
+        <text name="vtpas_tm_fpPgUp" text="SEITE ZURÜCK"/>
+        <text name="vtpas_tm_fpPgDn" text="SEITE VOR"/>
+        <text name="vtpas_tm_fpAll" text="ALLE / EINE"/>
+        <text name="vtpas_tm_fpFoldAll" text="ORDNER"/>
+        <text name="vtpas_tm_fpBack" text="ZURÜCK"/>
+        <text name="vtpas_tm_fpHud" text="FarmPilot-HUD"/>
+        <text name="vtpas_tm_fpHudHidden" text="Versteckt (Symbol)"/>
+        <text name="vtpas_tm_fpHudShown" text="Angezeigt"/>
+        <text name="vtpas_tm_fpIconOpen" text="FarmPilot-Routeneditor öffnen"/>
+        <text name="vtpas_tm_fpIconClose" text="FarmPilot-Routeneditor schließen"/>
+        <text name="vtpas_tm_useJob1" text="AUFTRAG 1"/>
+        <text name="vtpas_tm_useJob2" text="AUFTRAG 2"/>
+        <text name="vtpas_tm_wear" text="Reifenverschleiß VL/VR/HL/HR"/>
+        <text name="vtpas_tm_width" text="Arbeitsbreite"/>
+        <text name="vtpas_tm_g_CP" text="COURSEPLAY"/>
+        <text name="vtpas_tm_g_AD" text="AUTODRIVE"/>
+        <text name="vtpas_tm_g_IA" text="KI-HELFER"/>
+        <text name="vtpas_tm_u_rpm" text="U/min"/>
+        <text name="vtpas_tm_tab3d" text="Tablet: 3D-Bildschirm"/>
+        <text name="vtpas_tm_tabS" text="Tablet: Größe"/>
+        <text name="vtpas_tm_tabP" text="Tablet: Neigung oben / unten"/>
+        <text name="vtpas_tm_tabR" text="Tablet: Neigung links / rechts"/>
+        <text name="vtpas_tm_p_cp" text="COURSEPLAY"/>
+        <text name="vtpas_tm_noLift" text="Kein Gerät zum Heben oder Senken"/>
+        <text name="vtpas_tm_noTurnOn" text="Keine Maschine zum Einschalten"/>
+        <text name="vtpas_tm_noFold" text="Kein klappbares Gerät"/>
+        <text name="vtpas_tm_doRaise" text="HEBEN"/>
+        <text name="vtpas_tm_doLower" text="SENKEN"/>
+        <text name="vtpas_tm_doOn" text="EINSCHALTEN"/>
+        <text name="vtpas_tm_doOff" text="AUSSCHALTEN"/>
+        <text name="vtpas_tm_doFold" text="EINKLAPPEN"/>
+        <text name="vtpas_tm_doUnfold" text="AUSKLAPPEN"/>
+        <text name="vtpas_tm_cpMissing" text="Courseplay ist für dieses Fahrzeug nicht verfügbar"/>
+        <text name="vtpas_tm_cpNoField" text="Courseplay: Fahrzeug auf ein Feld stellen"/>
+        <text name="vtpas_tm_cpState" text="Courseplay"/>
+        <text name="vtpas_tm_cpActive" text="Arbeitet"/>
+        <text name="vtpas_tm_cpReady" text="Bereit"/>
+        <text name="vtpas_tm_cpNotReady" text="Nicht bereit"/>
+        <text name="vtpas_tm_cpNoCourse" text="Kein Kurs"/>
+        <text name="vtpas_tm_cpCourse" text="Kurs"/>
+        <text name="vtpas_tm_cpPoints" text="%d Wegpunkte"/>
+        <text name="vtpas_tm_cpStart" text="Startpunkt"/>
+        <text name="vtpas_tm_cpWidth" text="Arbeitsbreite"/>
+        <text name="vtpas_tm_cpHeadlands" text="Vorgewende"/>
+        <text name="vtpas_tm_cpHint" text="Breite und Vorgewende: vor dem Erstellen des Kurses einstellen"/>
+        <text name="vtpas_tm_cpGo" text="STARTEN"/>
+        <text name="vtpas_tm_cpStop" text="STOPPEN"/>
+        <text name="vtpas_tm_cpGenerate" text="KURS ERSTELLEN"/>
+        <text name="vtpas_tm_cpClear" text="KURS LÖSCHEN"/>
+        <text name="vtpas_tm_cpMenu" text="COURSEPLAY-MENÜ"/>
+        <text name="vtpas_tm_adStartStop" text="AUTODRIVE"/>
+        <text name="vtpas_tm_covered" text="Bearbeitet"/>
+        <text name="vtpas_tm_overlap" text="Überlappung"/>
+        <text name="vtpas_tm_heading" text="Kurs"/>
+        <text name="vtpas_tm_toEnd" text="Bis Feldende"/>
+        <text name="vtpas_tm_zoomIn" text="ZOOM +"/>
+        <text name="vtpas_tm_zoomOut" text="ZOOM -"/>
+        <text name="vtpas_tm_mapImg" text="KARTE"/>
+        <text name="vtpas_tm_clearMap" text="KARTE LÖSCHEN"/>
+        <text name="vtpas_tm_newJob" text="NEUER AUFTRAG"/>
+        <text name="vtpas_tm_rtkDist" text="RTK-ENTFERNUNG"/>
+        <text name="vtpas_tm_rtkNone" text="Keine Antenne"/>
+        <text name="vtpas_tm_row" text="Reihe %s"/>
+        <text name="vtpas_tm_tablet" text="Tablet in der Kabine"/>
+        <text name="vtpas_tm_tabX" text="Tablet: rechts / links"/>
+        <text name="vtpas_tm_tabY" text="Tablet: hoch / runter"/>
+        <text name="vtpas_tm_tabZ" text="Tablet: vor / zurück"/>
+        <text name="vtpas_tm_tabPlace" text="Tablet: Platz"/>
+        <text name="vtpas_tm_display" text="Anzeigen auf"/>
+        <text name="vtpas_tm_dispTablet" text="Tablet"/>
+        <text name="vtpas_tm_dispVehicle" text="Fahrzeugbildschirm"/>
+        <text name="vtpas_tm_dispBoth" text="Beide"/>
+        <text name="vtpas_tm_ext2" text="2. Bildschirm"/>
+        <text name="vtpas_tm_ext3" text="3. Bildschirm"/>
+        <text name="vtpas_tm_extOff" text="Keiner"/>
+        <text name="vtpas_tm_vehScreen" text="Verwendeter Bildschirm"/>
+        <text name="vtpas_tm_vehNone" text="keiner gefunden"/>
+        <text name="vtpas_tm_vehOri" text="Terminal-Ebene"/>
+        <text name="vtpas_tm_oriPart" text="Originalbildschirm"/>
+        <text name="vtpas_tm_oriHead" text="Zum Kopf"/>
+        <text name="vtpas_tm_boot" text="Startet..."/>
+        <text name="vtpas_tm_tabHigh" text="Oben, rechts der Säule"/>
+        <text name="vtpas_tm_tabLow" text="Unten, links der Säule"/>
+        <text name="vtpas_tm_setTab" text="TABLET"/>
+        <text name="vtpas_tm_setMain" text="ALLGEMEIN"/>
+        <text name="vtpas_tm_noPipe" text="Kein nutzbares Rohr"/>
+        <text name="vtpas_tm_m_machine" text="Maschine"/>
+        <text name="vtpas_tm_m_product" text="Produkt"/>
+        <text name="vtpas_tm_m_tank" text="Tank"/>
+        <text name="vtpas_tm_m_dose" text="Menge"/>
+        <text name="vtpas_tm_m_width" text="Breite"/>
+        <text name="vtpas_tm_m_haLeft" text="Rest bis leer"/>
+        <text name="vtpas_tm_m_state" text="Zustand"/>
+        <text name="vtpas_tm_m_header" text="Vorsatz"/>
+        <text name="vtpas_tm_m_cutter" text="Schneidwerk"/>
+        <text name="vtpas_tm_m_chopper" text="Häcksler"/>
+        <text name="vtpas_tm_m_thresher" text="Dreschwerk"/>
+        <text name="vtpas_tm_m_pipeIn" text="EINKLAPPEN"/>
+        <text name="vtpas_tm_m_pipeOut" text="AUSKLAPPEN"/>
+        <text name="vtpas_tm_m_pipe" text="Rohr"/>
+        <text name="vtpas_tm_m_crop" text="Frucht"/>
+        <text name="vtpas_tm_m_grainTank" text="Korntank"/>
+        <text name="vtpas_tm_m_toFull" text="Voll in"/>
+        <text name="vtpas_tm_m_low" text="unten"/>
+        <text name="vtpas_tm_m_high" text="oben"/>
+        <text name="vtpas_tm_m_tph" text="Durchsatz"/>
+        <text name="vtpas_tm_m_out" text="ausgeklappt"/>
+        <text name="vtpas_tm_m_in" text="eingeklappt"/>
+        <text name="vtpas_tm_m_left" text="links"/>
+        <text name="vtpas_tm_m_right" text="rechts"/>
+        <text name="vtpas_tm_m_trailer" text="Anhänger"/>
+        <text name="vtpas_tm_m_load" text="Motorlast"/>
+        <text name="vtpas_tm_m_fresh" text="Frischmasse"/>
+        <text name="vtpas_tm_m_power" text="Einzug / Trommel / Gebl."/>
+        <text name="vtpas_tm_m_frontTool" text="Vorne"/>
+        <text name="vtpas_tm_m_pickup" text="Pick-up"/>
+        <text name="vtpas_tm_m_yield" text="Ertrag"/>
+        <text name="vtpas_tm_m_hph" text="Fläche / Std."/>
+        <text name="vtpas_tm_m_speed" text="Empf. Geschw."/>
+        <text name="vtpas_tm_m_fuel" text="Kraftstoff"/>
+        <text name="vtpas_tm_m_moist" text="Feuchte"/>
+        <text name="vtpas_tm_m_weed" text="Unkraut"/>
+        <text name="vtpas_tm_m_loss" text="Verluste"/>
+        <text name="vtpas_tm_m_lossWhy" text="davon"/>
+        <text name="vtpas_tm_m_lOver" text="Überl."/>
+        <text name="vtpas_tm_m_lMoist" text="Feuchte"/>
+        <text name="vtpas_tm_m_lSet" text="Einst."/>
+        <text name="vtpas_tm_m_lWear" text="Versch."/>
+        <text name="vtpas_tm_m_lSlope" text="Hang"/>
+        <text name="vtpas_tm_m_eff" text="Einst.-Effizienz"/>
+        <text name="vtpas_tm_m_s_rotor" text="Rotor / Trommel (opt.)"/>
+        <text name="vtpas_tm_m_s_feeder" text="Einzug (opt.)"/>
+        <text name="vtpas_tm_m_s_fan" text="Gebläse (opt.)"/>
+        <text name="vtpas_tm_m_s_upperSieve" text="Obersieb (opt.)"/>
+        <text name="vtpas_tm_m_s_lowerSieve" text="Untersieb (opt.)"/>
+        <text name="vtpas_tm_m_noRh" text="Realistic Harvesting fehlt"/>
+        <text name="vtpas_tm_cpLoadSave" text="GESPEICHERTE LADEN"/>
+        <text name="vtpas_tm_cpSavesTitle" text="Gespeicherte Kurse"/>
+        <text name="vtpas_tm_cpSavesNone" text="Kein gespeicherter Kurs"/>
+        <text name="vtpas_tm_cpFind" text="AUFTRAG SUCHEN"/>
+        <text name="vtpas_tm_cpFindNoCp" text="Courseplay-Kurse nicht gefunden"/>
+        <text name="vtpas_tm_cpFindNoField" text="Kein Feld im Umkreis von 150 m"/>
+        <text name="vtpas_tm_cpFindNone" text="Kein gespeicherter Kurs für dieses Feld"/>
+        <text name="vtpas_tm_cpFindLoadErr" text="Kurs konnte nicht geladen werden"/>
+        <text name="vtpas_tm_cpFindHead" text="Gespeicherte Kurse - Feld %s - Gerät %s"/>
+        <text name="vtpas_tm_cpFindHl" text="%d Vorgew."/>
+        <text name="vtpas_tm_cpFindBusy" text="Gespeicherte Kurse werden gesucht..."/>
+        <text name="vtpas_tm_cpFindField" text="Feld %s"/>
+        <text name="vtpas_tm_m_empty" text="Leer"/>
+        <text name="vtpas_tm_tipGo" text="KIPPEN"/>
+        <text name="vtpas_tm_tipStop" text="STOPP"/>
+        <text name="vtpas_tm_tipOn" text="Kippt"/>
+        <text name="vtpas_tm_tipOff" text="Kipper unten"/>
+        <text name="vtpas_tm_tipSide" text="SEITE"/>
+        <text name="vtpas_tm_tipNo" text="Abladen hier nicht möglich"/>
+        <text name="vtpas_tm_coverOpen" text="PLANE AUF"/>
+        <text name="vtpas_tm_coverClose" text="PLANE ZU"/>
+        <text name="vtpas_tm_coverIsOpen" text="Plane offen"/>
+        <text name="vtpas_tm_coverIsClosed" text="Plane zu"/>
+        <text name="vtpas_tm_p_rh" text="ERNTE-EINST."/>
+        <text name="vtpas_tm_rhPage" text="ERNTE-EINST."/>
+        <text name="vtpas_tm_rhMenu" text="RH-MENÜ"/>
+        <text name="vtpas_tm_rhNone" text="Realistic Harvesting: Maschine nicht verwaltet"/>
+        <text name="vtpas_tm_rhNoPreset" text="Keine gespeicherten Einstellungen für diese Frucht"/>
+        <text name="vtpas_tm_rhAuto" text="KI-AUTO-KALIB"/>
+        <text name="vtpas_tm_rhLoad" text="LADEN"/>
+        <text name="vtpas_tm_rhSave" text="SPEICHERN"/>
+        <text name="vtpas_tm_rhReset" text="WERKSWERTE"/>
+        <text name="vtpas_tm_m_targetLoad" text="Ziellast"/>
+        <text name="vtpas_tm_sideAV" text="VO"/>
+        <text name="vtpas_tm_sideAR" text="HI"/>
+        <text name="vtpas_tm_c_dist" text="Strecke"/>
+        <text name="vtpas_tm_c_distW" text="Strecke Arbeit"/>
+        <text name="vtpas_tm_c_area" text="Fläche"/>
+        <text name="vtpas_tm_tk_baler" text="PRESSE"/>
+        <text name="vtpas_tm_tk_baleLoader" text="BALLENSAMMLER"/>
+        <text name="vtpas_tm_tk_wrapper" text="WICKLER"/>
+        <text name="vtpas_tm_tk_combine" text="MÄHDRESCHER"/>
+        <text name="vtpas_tm_tk_forage" text="HÄCKSLER"/>
+        <text name="vtpas_tm_tk_root" text="RODER"/>
+        <text name="vtpas_tm_tk_header" text="SCHNEIDWERK"/>
+        <text name="vtpas_tm_tk_forageWagon" text="LADEWAGEN"/>
+        <text name="vtpas_tm_tk_mixer" text="FUTTERMISCHER"/>
+        <text name="vtpas_tm_tk_seeder" text="SÄMASCHINE"/>
+        <text name="vtpas_tm_tk_sprayer" text="FELDSPRITZE"/>
+        <text name="vtpas_tm_tk_spreader" text="STREUER"/>
+        <text name="vtpas_tm_tk_slurry" text="GÜLLEFASS"/>
+        <text name="vtpas_tm_tk_selfSprayer" text="SELBSTFAHRER"/>
+        <text name="vtpas_tm_tk_mower" text="MÄHWERK"/>
+        <text name="vtpas_tm_tk_tedder" text="WENDER"/>
+        <text name="vtpas_tm_tk_windrower" text="SCHWADER"/>
+        <text name="vtpas_tm_tk_plow" text="PFLUG"/>
+        <text name="vtpas_tm_tk_cultivator" text="GRUBBER"/>
+        <text name="vtpas_tm_tk_weeder" text="STRIEGEL"/>
+        <text name="vtpas_tm_tk_roller" text="WALZE"/>
+        <text name="vtpas_tm_tk_mulcher" text="MULCHER"/>
+        <text name="vtpas_tm_tk_stonePicker" text="STEINSAMMLER"/>
+        <text name="vtpas_tm_tk_trailer" text="ANHÄNGER"/>
+        <text name="vtpas_tm_tk_generic" text="GERÄT"/>
+        <text name="vtpas_tm_tt_bales" text="BALLEN"/>
+        <text name="vtpas_tm_tt_balesTotal" text="gesamt %d"/>
+        <text name="vtpas_tm_tt_bale" text="AKTUELLE BALLE"/>
+        <text name="vtpas_tm_tt_format" text="FORMAT"/>
+        <text name="vtpas_tm_tt_eject" text="AUSWURF"/>
+        <text name="vtpas_tm_tt_auto" text="AUTO"/>
+        <text name="vtpas_tm_tt_manual" text="MANUELL"/>
+        <text name="vtpas_tm_tt_twine" text="GARN"/>
+        <text name="vtpas_tm_tt_net" text="NETZ"/>
+        <text name="vtpas_tm_tt_film" text="FOLIE"/>
+        <text name="vtpas_tm_tt_rolls" text="Rollen"/>
+        <text name="vtpas_tm_tt_area" text="FLÄCHE"/>
+        <text name="vtpas_tm_tt_hours" text="STUNDEN"/>
+        <text name="vtpas_tm_tt_width" text="BREITE"/>
+        <text name="vtpas_tm_tt_load" text="LADUNG"/>
+        <text name="vtpas_tm_tt_pos" text="POSITION"/>
+        <text name="vtpas_tm_tt_work" text="IM EINSATZ"/>
+        <text name="vtpas_tm_tt_transport" text="TRANSPORT"/>
+        <text name="vtpas_tm_tt_unload" text="ENTLADEN"/>
+        <text name="vtpas_tm_tt_running" text="LÄUFT"/>
+        <text name="vtpas_tm_tt_waiting" text="WARTEN"/>
+        <text name="vtpas_tm_tt_wrap" text="WICKELN"/>
+        <text name="vtpas_tm_tt_ready" text="FERTIG"/>
+        <text name="vtpas_tm_tt_swath" text="SCHWAD"/>
+        <text name="vtpas_tm_tt_grouped" text="ZUSAMMEN"/>
+        <text name="vtpas_tm_tt_spread" text="BREIT"/>
+        <text name="vtpas_tm_tt_mode" text="MODUS"/>
+        <text name="vtpas_tm_tt_seed" text="SAATGUT"/>
+        <text name="vtpas_tm_tt_hopper" text="BEHÄLTER"/>
+        <text name="vtpas_tm_tt_markers" text="SPURANREISSER"/>
+        <text name="vtpas_tm_tt_mkOff" text="EINGEKLAPPT"/>
+        <text name="vtpas_tm_tt_mkLeft" text="LINKS"/>
+        <text name="vtpas_tm_tt_mkRight" text="RECHTS"/>
+        <text name="vtpas_tm_tt_fert" text="DÜNGER"/>
+        <text name="vtpas_tm_tt_product" text="PRODUKT"/>
+        <text name="vtpas_tm_tt_tank" text="TANK"/>
+        <text name="vtpas_tm_tt_dose" text="MENGE"/>
+        <text name="vtpas_tm_tt_haLeft" text="HA ÜBRIG"/>
+        <text name="vtpas_tm_pf_seedRate" text="SAATSTÄRKE"/>
+        <text name="vtpas_tm_pf_seeds" text="GESÄTE KÖRNER"/>
+        <text name="vtpas_tm_pf_dose" text="AUSBRINGMENGE"/>
+        <text name="vtpas_tm_pf_fertDose" text="DÜNGERMENGE"/>
+        <text name="vtpas_tm_pf_auto" text="AUTO"/>
+        <text name="vtpas_tm_pf_manu" text="MANUELL"/>
+        <text name="vtpas_tm_pf_low" text="Niedrig"/>
+        <text name="vtpas_tm_pf_std" text="Standard"/>
+        <text name="vtpas_tm_pf_high" text="Hoch"/>
+        <text name="vtpas_tm_pf_nitrogen" text="STICKSTOFF"/>
+        <text name="vtpas_tm_pf_ph" text="BODEN-pH"/>
+        <text name="vtpas_tm_pf_actual" text="Ist"/>
+        <text name="vtpas_tm_pf_target" text="Soll"/>
+        <text name="vtpas_tm_pf_real" text="Ist"/>
+        <text name="vtpas_tm_pf_reco" text="Empfohlen"/>
+        <text name="vtpas_tm_pf_na" text="Keine Saatstärke für dieses Saatgut"/>
+        <text name="vtpas_tm_pf_reached" text="Ziel erreicht"/>
+        <text name="vtpas_tm_pf_notOnField" text="Außerhalb des Feldes"/>
+        <text name="vtpas_tm_tt_sections" text="Teilbreiten"/>
+        <text name="vtpas_tm_tt_side" text="SEITE"/>
+        <text name="vtpas_tm_tt_turned" text="GEWENDET"/>
+        <text name="vtpas_tm_tt_normal" text="NORMAL"/>
+        <text name="vtpas_tm_tt_limit" text="FELDGRENZE"/>
+        <text name="vtpas_tm_tt_tip" text="KIPPEN"/>
+        <text name="vtpas_tm_tt_cover" text="PLANE"/>
+        <text name="vtpas_tm_tt_crop" text="FRUCHT"/>
+        <text name="vtpas_tm_tt_reset" text="RESET"/>
+        <text name="vtpas_tm_tt_hitch" text="HUBWERK"/>
+        <text name="vtpas_tm_al_full" text="VOLL"/>
+        <text name="vtpas_tm_al_emptyX" text="%s LEER"/>
+        <text name="vtpas_tm_al_fault" text="DEFEKT (ADS)"/>
+        <text name="vtpas_tm_al_soon" text="DEFEKT DROHT (ADS)"/>
+        <text name="vtpas_tm_k_eject" text="AUSWERFEN"/>
+        <text name="vtpas_tm_k_ejectAuto" text="AUSWURF"/>
+        <text name="vtpas_tm_k_size" text="FORMAT"/>
+        <text name="vtpas_tm_k_resetBales" text="BALLEN RESET"/>
+        <text name="vtpas_tm_k_unload" text="ENTLADEN"/>
+        <text name="vtpas_tm_k_drop" text="ABLEGEN"/>
+        <text name="vtpas_tm_k_swath" text="SCHWAD"/>
+        <text name="vtpas_tm_k_mode" text="MODUS"/>
+        <text name="vtpas_tm_k_seed" text="SAATGUT"/>
+        <text name="vtpas_tm_k_markers" text="SPURANREISSER"/>
+        <text name="vtpas_tm_k_double" text="MENGE ×2"/>
+        <text name="vtpas_tm_k_sections" text="TEILBREITEN"/>
+        <text name="vtpas_tm_k_turn" text="WENDEN"/>
+        <text name="vtpas_tm_k_limit" text="FELDGRENZE"/>
+        <text name="vtpas_tm_setHome" text="START"/>
+        <text name="vtpas_tm_hmFor" text="Startkacheln für"/>
+        <text name="vtpas_tm_hmAuto" text="Auto"/>
+        <text name="vtpas_tm_hmShown" text="angezeigt"/>
+        <text name="vtpas_tm_hmHidden" text="ausgeblendet"/>
+        <text name="vtpas_tm_hmAlways" text="Immer"/>
+        <text name="vtpas_tm_hmNever" text="Nie"/>
+        <text name="vtpas_tm_hm_engine" text="Motor und Getriebe"/>
+        <text name="vtpas_tm_hm_lights" text="Bild und Beleuchtung"/>
+        <text name="vtpas_tm_hm_center" text="Maschine in der Mitte"/>
+        <text name="vtpas_tm_hm_quick" text="Schnellzugriff"/>
+        <text name="vtpas_tm_hm_hitchF" text="Vorne (Hubwerk, Schneidwerk, Gestänge)"/>
+        <text name="vtpas_tm_hm_hitchR" text="Hinten (Hubwerk, Ernte, Tank)"/>
+        <text name="vtpas_tm_hm_tools" text="Geräte"/>
+        <text name="vtpas_tm_hm_speed" text="Geschwindigkeit"/>
+        <text name="vtpas_tm_p_gps" text="GPS-LENKUNG"/>
+        <text name="vtpas_tm_gps_st_none" text="OHNE COURSEPLAY"/>
+        <text name="vtpas_tm_gps_st_noLine" text="KEINE SPUR"/>
+        <text name="vtpas_tm_gps_st_on" text="AKTIV"/>
+        <text name="vtpas_tm_gps_st_ready" text="BEREIT"/>
+        <text name="vtpas_tm_gps_st_off" text="NICHT BEREIT"/>
+        <text name="vtpas_tm_gps_noCp" text="Courseplay fehlt"/>
+        <text name="vtpas_tm_gps_noCourse" text="Kein Kurs"/>
+        <text name="vtpas_tm_gps_turning" text="WENDEN"/>
+        <text name="vtpas_tm_gps_noLine" text="Außerhalb der Spur"/>
+        <text name="vtpas_tm_gps_row" text="SPUR %d / %d"/>
+        <text name="vtpas_tm_gps_hl" text="VORGEWENDE %d"/>
+        <text name="vtpas_tm_gps_noRtk" text="Kein RTK-Signal"/>
+        <text name="vtpas_tm_gps_noRtkStart" text="Kein RTK-Signal: zum Starten näher an eine RTK-Station fahren"/>
+        <text name="vtpas_tm_gps_sat" text="%d Sat.  ± %s"/>
+        <text name="vtpas_tm_gps_toTurn" text="Wenden in %d m"/>
+        <text name="vtpas_tm_gps_end" text="Letzte Spur"/>
+        <text name="vtpas_tm_gps_done" text="Erledigt %d %%  -  Rest %s"/>
+        <text name="vtpas_tm_gps_time" text="Restzeit %s"/>
+        <text name="vtpas_tm_gps_create" text="Kurs erstellen: KURS"/>
+        <text name="vtpas_tm_gps_v_persp" text="Perspektive"/>
+        <text name="vtpas_tm_gps_v_top" text="Draufsicht"/>
+        <text name="vtpas_tm_gps_shift" text="Versatz"/>
+        <text name="vtpas_tm_gps_view" text="ANSICHT"/>
+        <text name="vtpas_tm_gps_zoom" text="ZOOM"/>
+        <text name="vtpas_tm_gps_course" text="KURS"/>
+        <text name="vtpas_tm_gps_rows" text="%d Spuren"/>
+        <text name="vtpas_tm_gps_back" text="ZURÜCK"/>
+        <text name="vtpas_tm_gps_courseInfo" text="%d Spuren, %d Vorgewende, %.1f km"/>
+        <text name="vtpas_tm_gps_offset" text="Geräteversatz"/>
+        <text name="vtpas_tm_gps_lane" text="Spur (Mehrfachgeräte)"/>
+        <text name="vtpas_tm_gps_rec" text="Feldgrenze (aufzeichnen)"/>
+        <text name="vtpas_tm_gps_recPaused" text="Pausiert"/>
+        <text name="vtpas_tm_gps_recOn" text="Aufzeichnung"/>
+        <text name="vtpas_tm_gps_recGo" text="FORTSETZEN"/>
+        <text name="vtpas_tm_gps_recPause" text="PAUSE"/>
+        <text name="vtpas_tm_gps_recStop" text="STOPP"/>
+        <text name="vtpas_tm_gps_recStart" text="START"/>
+        <text name="vtpas_tm_gps_noShift" text="Geräteversatz für dieses Fahrzeug nicht verfügbar"/>
+        <text name="vtpas_tm_gps_recNo" text="Feldgrenze: zuerst Kurs löschen und Courseplay stoppen"/>
+        <text name="vtpas_tm_mf_temporary" text="Temporär"/>
+        <text name="vtpas_tm_mf_valveF" text="Front-SG %02d"/>
+        <text name="vtpas_tm_mf_valve" text="Steuerg. %02d"/>
+        <text name="vtpas_tm_mf_memory" text="Speicher belegt"/>
+        <text name="vtpas_tm_mf_reset" text="RESET"/>
+        <text name="vtpas_tm_mf_work" text="Arbeit"/>
+        <text name="vtpas_tm_mf_total" text="Gesamt"/>
+        <text name="vtpas_tm_mf_accTitle" text="Zubehör und Einstellungen"/>
+        <text name="vtpas_tm_mf_metric" text="Metrisch"/>
+        <text name="vtpas_tm_mf_imperial" text="Imperial"/>
+        <text name="vtpas_tm_mf_radio" text="Radio und Telefon"/>
+        <text name="vtpas_tm_mf_serial" text="Seriennummer:"/>
+        <text name="vtpas_tm_mf_app" text="Anwendung"/>
+        <text name="vtpas_tm_mf_rev" text="Basiert auf Revision"/>
+        <text name="vtpas_tm_mf_machine" text="Erstellt auf Rechner"/>
+        <text name="vtpas_tm_mf_builtOn" text="Erstellt am"/>
+        <text name="vtpas_tm_mf_resetBtn" text="Reset"/>
+        <text name="vtpas_tm_mf_auto" text="Auto"/>
+        <text name="vtpas_tm_mf_manual" text="Manuell"/>
+        <text name="vtpas_tm_mf_mEngine" text="Motor"/>
+        <text name="vtpas_tm_mf_mTrans" text="Getriebe"/>
+        <text name="vtpas_tm_mf_mHitch" text="Hubwerk"/>
+        <text name="vtpas_tm_mf_mHyd" text="Hydraulik"/>
+        <text name="vtpas_tm_mf_mPto" text="Zapfwelle"/>
+        <text name="vtpas_tm_mf_mFp" text="FarmPilot"/>
+        <text name="vtpas_tm_mf_mDual" text="Dual Control"/>
+        <text name="vtpas_tm_mf_m4wd" text="Allrad/Diff"/>
+        <text name="vtpas_tm_mf_mGuide" text="MF Guide"/>
+        <text name="vtpas_tm_mf_mSc" text="Teilbreiten"/>
+        <text name="vtpas_tm_mf_mCount" text="Zähler"/>
+        <text name="vtpas_tm_mf_mIsobus" text="Aufgaben"/>
+        <text name="vtpas_tm_mf_mCam" text="Kamera"/>
+        <text name="vtpas_tm_mf_mJoy" text="Joystick"/>
+        <text name="vtpas_tm_mf_mTool" text="Gerät"/>
+        <text name="vtpas_tm_mf_mLight" text="Licht"/>
+        <text name="vtpas_tm_mf_lTitle" text="BELEUCHTUNG"/>
+        <text name="vtpas_tm_fd_hitchF" text="Frontkraftheber"/>
+        <text name="vtpas_tm_fd_hitchR" text="Heckkraftheber"/>
+        <text name="vtpas_tm_fd_motor" text="Motor &amp; Getriebe"/>
+        <text name="vtpas_tm_fd_light" text="Beleuchtung"/>
+        <text name="vtpas_tm_fd_valves" text="Hydraulikventile"/>
+        <text name="vtpas_tm_fd_valve" text="Ventil"/>
+        <text name="vtpas_tm_fd_quick" text="Schnellzugriff"/>
+        <text name="vtpas_tm_fd_clim" text="Klimaanlage"/>
+        <text name="vtpas_tm_fd_joy" text="Fahrhebel"/>
+        <text name="vtpas_tm_fd_tools" text="Gerätemanager"/>
+        <text name="vtpas_tm_fd_tiOff" text="TI nicht aktiv"/>
+        <text name="vtpas_tm_fd_field" text="Feld"/>
+        <text name="vtpas_tm_fd_noField" text="Kein Feld"/>
+        <text name="vtpas_tm_fd_done" text="bearbeitet"/>
+        <text name="vtpas_tm_fd_noTool" text="Kein Gerät"/>
+        <text name="vtpas_tm_fd_settings" text="Einstellungen"/>
+        <text name="vtpas_tm_fd_hitchHelp" text="Grüne Taste: Gerät heben oder senken. Achtung bei Geräten im Einsatz."/>
+        <text name="vtpas_tm_fd_pto" text="Zapfwelle"/>
+        <text name="vtpas_tm_fd_ptoAsk" text="Zapfwelle auswählen"/>
+        <text name="vtpas_tm_fd_on" text="Ein"/>
+        <text name="vtpas_tm_fd_off" text="Aus"/>
+        <text name="vtpas_tm_fd_front" text="Front"/>
+        <text name="vtpas_tm_fd_rear" text="Heck"/>
+        <text name="vtpas_tm_fd_comp" text="Bordrechner"/>
+        <text name="vtpas_tm_fd_tractor" text="Traktor"/>
+        <text name="vtpas_tm_fd_turnSet" text="Einstellungen: Turn Assistant"/>
+        <text name="vtpas_tm_fd_turnMode" text="Turn Assistant Modus"/>
+        <text name="vtpas_tm_fd_pattern" text="Fahrmuster (Courseplay)"/>
+        <text name="vtpas_tm_fd_heads" text="Vorgewende"/>
+        <text name="vtpas_tm_fd_skip" text="Musterbreite"/>
+        <text name="vtpas_tm_fd_order" text="Fahrabfolge"/>
+        <text name="vtpas_tm_fd_qaOn" text="Gerät ein / aus"/>
+        <text name="vtpas_tm_fd_qaFold" text="Klappen"/>
+        <text name="vtpas_tm_fd_qaDown" text="Alle absenken"/>
+        <text name="vtpas_tm_fd_qaUp" text="Alle anheben"/>
+        <text name="vtpas_tm_fd_hUp" text="Heben"/>
+        <text name="vtpas_tm_fd_hDown" text="Senken"/>
+        <text name="vtpas_tm_fd_remHint1" text="Zeile 1, 2 oder 3 antippen, um ihre Funktion zu wählen."/>
+        <text name="vtpas_tm_fd_remHint2" text="ANWENDEN wirkt wie ein Druck auf das Steuergerät."/>
+        <text name="vtpas_tm_fd_gResume" text="Fortsetzen"/>
+        <text name="vtpas_tm_fd_gZin" text="Zoom +"/>
+        <text name="vtpas_tm_fd_gZout" text="Zoom -"/>
+        <text name="vtpas_tm_fd_gV3d" text="3D-Ansicht"/>
+        <text name="vtpas_tm_fd_gV2d" text="2D-Ansicht"/>
+        <text name="vtpas_tm_fd_gBack" text="Zurück"/>
+        <text name="vtpas_tm_fd_gCpOn" text="Courseplay fährt"/>
+        <text name="vtpas_tm_fd_gCpReady" text="Kurs bereit"/>
+        <text name="vtpas_tm_fd_gCpNone" text="Kein Kurs"/>
+        <text name="vtpas_tm_fd_scTool" text="Gerät"/>
+        <text name="vtpas_tm_fd_scNext" text="Tippen = nächstes Gerät"/>
+        <text name="vtpas_tm_fd_scSections" text="%d Teilbreiten"/>
+        <text name="vtpas_tm_fd_scDone" text="Bereits bearbeitet"/>
+        <text name="vtpas_tm_fd_scCut" text="Abschalten"/>
+        <text name="vtpas_tm_fd_scNoCut" text="Nicht abschalten"/>
+        <text name="vtpas_tm_fd_scBorder" text="Feldgrenze"/>
+        <text name="vtpas_tm_fd_scBd1" text="Sobald draußen"/>
+        <text name="vtpas_tm_fd_scBd2" text="Zur Hälfte"/>
+        <text name="vtpas_tm_fd_scBd3" text="Keine"/>
+        <text name="vtpas_tm_fd_scBoom" text="Gestängeführung"/>
+        <text name="vtpas_tm_fd_scMap" text="Arbeitskarte"/>
+        <text name="vtpas_tm_fd_scOvIn" text="Überlappung im Feld"/>
+        <text name="vtpas_tm_fd_scOvBd" text="Überlappung am Rand"/>
+        <text name="vtpas_tm_fd_scDrive" text="Fahrtrichtung"/>
+        <text name="vtpas_tm_fd_scTol" text="Toleranz äußere Teilbreite"/>
+        <text name="vtpas_tm_fd_scDOn" text="Einschaltverzögerung"/>
+        <text name="vtpas_tm_fd_scDOff" text="Ausschaltverzögerung"/>
+        <text name="vtpas_tm_fd_tiHint1" text="GO oder END antippen = seine Aktionen, der Reihe nach."/>
+        <text name="vtpas_tm_fd_tiHint2" text="Rechts: Taste und ihre 3 Aktionen wählen."/>
+        <text name="vtpas_tm_fd_tiDef" text="Standard"/>
+        <text name="vtpas_tm_fd_tiTry" text="Testen"/>
+        <text name="vtpas_tm_fd_tiTile" text="GO / END: Taste = Aktionen; Kachel = Einstellung"/>
+        <text name="vtpas_tm_fd_qaCam" text="Kamera"/>
+        <text name="vtpas_tm_fd_qaWorkF" text="Arbeitsscheinw. vorne"/>
+        <text name="vtpas_tm_fd_qaBeacon" text="Rundumleuchte"/>
+        <text name="vtpas_tm_fd_qaWorkR" text="Arbeitsscheinw. hinten"/>
+        <text name="vtpas_tm_fd_qaDrive" text="Fahrlicht"/>
+        <text name="vtpas_tm_fd_qaDiff" text="Sperre / Allrad"/>
+        <text name="vtpas_tm_fd_lpTi" text="Fendt TI"/>
+        <text name="vtpas_tm_fd_lpTerm" text="Terminal"/>
+        <text name="vtpas_tm_fd_lpSusp" text="Federung"/>
+        <text name="vtpas_tm_fd_lpGripPro" text="VarioGrip Pro"/>
+        <text name="vtpas_tm_fd_lpGrip" text="VarioGrip"/>
+        <text name="vtpas_tm_fd_lpMedia" text="Medien"/>
+        <text name="vtpas_tm_fd_lpPhone" text="Telefon"/>
+        <text name="vtpas_tm_fd_lpTms" text="TMS"/>
+        <text name="vtpas_tm_fd_lpGuide" text="Fendt Guide"/>
+        <text name="vtpas_tm_fd_lpCount" text="Zähler"/>
+        <text name="vtpas_tm_fd_lpUt" text="ISOBUS (Gerät)"/>
+        <text name="vtpas_tm_fd_lpTools" text="Geräteverwaltung"/>
+        <text name="vtpas_tm_fd_lpService" text="Traktor / Service"/>
+        <text name="vtpas_tm_fd_lpSc" text="Section Control"/>
+        <text name="vtpas_tm_fd_gSteer" text="Lenkung"/>
+        <text name="vtpas_tm_fd_gCourse" text="Spureinstellungen"/>
+        <text name="vtpas_tm_fd_gField" text="Feld"/>
+        <text name="vtpas_tm_fd_gNew" text="Neue Spur"/>
+        <text name="vtpas_tm_fd_gLines" text="Spurlinien"/>
+        <text name="vtpas_tm_fd_gWidth" text="Breite"/>
+        <text name="vtpas_tm_fd_gZoom" text="Zoom"/>
+        <text name="vtpas_tm_fd_gMake" text="Spur erzeugen"/>
+        <text name="vtpas_tm_fd_gRec" text="Grenze aufzeichnen"/>
+        <text name="vtpas_tm_fd_gPause" text="Pause"/>
+        <text name="vtpas_tm_fd_gStop" text="Stopp"/>
+        <text name="vtpas_tm_fd_gClear" text="Spur löschen"/>
+        <text name="vtpas_tm_fd_gStart" text="Startpunkt"/>
+        <text name="vtpas_tm_fd_gTurn" text="Wendeassistent"/>
+        <text name="vtpas_tm_fd_lockOn" text="Verriegelt"/>
+        <text name="vtpas_tm_fd_lockOff" text="Frei"/>
+        <text name="vtpas_tm_fd_lWorkF" text="Arbeit vorne"/>
+        <text name="vtpas_tm_fd_lWorkR" text="Arbeit hinten"/>
+        <text name="vtpas_tm_fd_lBeacon" text="Rundum"/>
+        <text name="vtpas_tm_fd_lHigh" text="Fernlicht"/>
+        <text name="vtpas_tm_fd_lDrive" text="Abblendlicht"/>
+        <text name="vtpas_tm_fd_lMem1" text="Speicher 1: alle"/>
+        <text name="vtpas_tm_fd_lMem2" text="Speicher 2: aus"/>
+        <text name="vtpas_tm_fd_cReset" text="Zurücksetzen"/>
+        <text name="vtpas_tm_fd_qaTool" text="Gerät"/>
+        <text name="vtpas_tm_mf_vFns" text="FUNKTIONEN"/>
+        <text name="vtpas_tm_mf_vHelp" text="Feld antippen, um Funktion und Zielzustand zu wählen; ANWENDEN = Druck auf das Feld der Startseite."/>
+        <text name="vtpas_tm_mf_vFv1Def" text="Ohne Funktion hebt und senkt FV1 das Fronthubwerk."/>
+        <text name="vtpas_tm_mf_mClim" text="Klima"/>
+        <text name="vtpas_tm_mf_mRadio" text="Radio"/>
+        <text name="vtpas_tm_mf_mTractor" text="Traktor"/>
+        <text name="vtpas_tm_mf_mCp" text="Courseplay"/>
+        <text name="vtpas_tm_mf_mSet" text="Zubehör"/>
+        <text name="vtpas_tm_mf_scSelImpl" text="GERÄT AUSWÄHLEN"/>
+        <text name="vtpas_tm_mf_scBoom" text="WÄHLBARES GESTÄNGE"/>
+        <text name="vtpas_tm_mf_scOverlap" text="ÜBERLAPPUNG"/>
+        <text name="vtpas_tm_mf_scInField" text="IM FELD"/>
+        <text name="vtpas_tm_mf_scBoundary" text="FELDGRENZE"/>
+        <text name="vtpas_tm_mf_scDrive" text="FAHRTRICHTUNG"/>
+        <text name="vtpas_tm_mf_scTol1" text="TOLERANZ"/>
+        <text name="vtpas_tm_mf_scTol2" text="AUSSENTEILBREITE"/>
+        <text name="vtpas_tm_mf_scBoomCtl" text="GESTÄNGESTEUERUNG"/>
+        <text name="vtpas_tm_mf_scNone" text="Kein Gerät mit Teilbreiten"/>
+        <text name="vtpas_tm_mf_scSection" text="Teilbreite %d"/>
+        <text name="vtpas_tm_mf_scWidth" text="Arbeitsbreite"/>
+        <text name="vtpas_tm_mf_scInfo" text="Teilbreiten-Info"/>
+        <text name="vtpas_tm_mf_scType" text="Gerätetyp"/>
+        <text name="vtpas_tm_mf_scDefault" text="Standard"/>
+        <text name="vtpas_tm_mf_scAdjusted" text="Angepasst"/>
+        <text name="vtpas_tm_mf_tkTask" text="Aufgabe %d"/>
+        <text name="vtpas_tm_mf_tkFuelW" text="Kraftstoff Arbeit / ohne Arbeit"/>
+        <text name="vtpas_tm_mf_tkFuel" text="Kraftstoff gesamt"/>
+        <text name="vtpas_tm_mf_tkTime" text="Zeit Arbeit / ohne Arbeit"/>
+        <text name="vtpas_tm_mf_tkTimeL" text="Gesamt Zeit Arbeit / ohne Arbeit"/>
+        <text name="vtpas_tm_mf_tkDist" text="Strecke Arbeit / ohne Arbeit"/>
+        <text name="vtpas_tm_mf_tkDistL" text="Gesamt Strecke Arbeit / ohne Arbeit"/>
+        <text name="vtpas_tm_mf_tkArea" text="Bearbeitete Fläche"/>
+        <text name="vtpas_tm_mf_tkField" text="Feld"/>
+        <text name="vtpas_tm_mf_tkFieldN" text="Feld %s"/>
+        <text name="vtpas_tm_mf_tkNoField" text="Außerhalb Feld"/>
+        <text name="vtpas_tm_mf_tkNoContract" text="Kein Auftrag"/>
+        <text name="vtpas_tm_mf_tkForSale" text="Zu verkaufen"/>
+        <text name="vtpas_tm_mf_tkAreaV" text="Fläche: %s"/>
+        <text name="vtpas_tm_mf_tkOwner" text="Besitzer: %s"/>
+        <text name="vtpas_tm_mf_tkCrop" text="Kultur: %s"/>
+        <text name="vtpas_tm_mf_tkReward" text="Belohnung: %s"/>
+        <text name="vtpas_tm_mf_tkProgress" text="Fortschritt: %d %%"/>
+        <text name="vtpas_tm_mf_tkMoney" text="Geld: %s"/>
+        <text name="vtpas_tm_mf_tkDriver" text="Fahrer: %s"/>
+        <text name="vtpas_tm_mf_tkDriving" text="Fährt: %s"/>
+        <text name="vtpas_tm_mf_tkRec" text="Aufgabe %d: läuft"/>
+        <text name="vtpas_tm_mf_tkPaused" text="Aufgabe %d: pausiert"/>
+        <text name="vtpas_tm_mf_tkTcOff" text="Aufgabe %d: TC aus"/>
+        <text name="vtpas_tm_mf_tkNew" text="Neue Aufgabe"/>
+        <text name="vtpas_tm_mf_tkNewQ" text="Aufgabe %d auf null setzen?"/>
+        <text name="vtpas_tm_mf_tkFilterOn" text="Zählt nur auf dem gewählten Feld"/>
+        <text name="vtpas_tm_mf_camBig" text="Rückfahrkamera: im großen Fenster (Datum antippen)"/>
+        <text name="vtpas_tm_df_motor" text="Motor und Getriebe"/>
+        <text name="vtpas_tm_df_rpm" text="U/min"/>
+        <text name="vtpas_tm_df_hitchR" text="Heckhubwerk"/>
+        <text name="vtpas_tm_df_hitchF" text="Fronthubwerk"/>
+        <text name="vtpas_tm_df_lowered" text="Gesenkt"/>
+        <text name="vtpas_tm_df_raised" text="Angehoben"/>
+        <text name="vtpas_tm_df_theme" text="iMonitor-Design"/>
+        <text name="vtpas_tm_df_homeTitle" text="Startbildschirm wählen"/>
+        <text name="vtpas_tm_df_homeShort" text="Start"/>
+        <text name="vtpas_tm_df_ctName" text="ComfortTip"/>
+        <text name="vtpas_tm_df_cancel" text="Abbrechen"/>
+        <text name="vtpas_tm_df_cpGrp" text="Einstellungen"/>
+        <text name="vtpas_tm_df_cpVeh" text="Fahrzeug"/>
+        <text name="vtpas_tm_df_cpPage" text="Seite %d / %d"/>
+        <text name="vtpas_tm_df_cpGoStop" text="START / STOPP"/>
+        <text name="vtpas_tm_df_cpMap" text="LENKKARTE"/>
+        <text name="vtpas_tm_df_mnWork" text="Arbeitskarte"/>
+        <text name="vtpas_tm_df_mnTool" text="Gerät"/>
+        <text name="vtpas_tm_df_mnCount" text="Zähler"/>
+        <text name="vtpas_tm_df_mGuide" text="Lenkung"/>
+        <text name="vtpas_tm_df_mnSettings" text="Einstellungen"/>
+        <text name="vtpas_tm_df_mnHome" text="Start"/>
+        <text name="vtpas_tm_df_mPan" text="Verschieben"/>
+        <text name="vtpas_tm_df_mLines" text="Spuren"/>
+        <text name="vtpas_tm_df_mView" text="Ansicht"/>
+        <text name="vtpas_tm_df_mLayers" text="Ebenen"/>
+        <text name="vtpas_tm_df_mField" text="Feld"/>
+        <text name="vtpas_tm_df_mZoomOut" text="Zoom -"/>
+        <text name="vtpas_tm_df_mZoomIn" text="Zoom +"/>
+        <text name="vtpas_tm_df_mCourse" text="Kurs"/>
+        <text name="vtpas_tm_df_mLane" text="Spur"/>
+        <text name="vtpas_tm_df_mSteer" text="Lenkung"/>
+        <text name="vtpas_tm_df_mCp" text="Courseplay"/>
+        <text name="vtpas_tm_df_config" text="Konfigurationen"/>
+        <text name="vtpas_tm_df_ctIn" text="Feldeinfahrt"/>
+        <text name="vtpas_tm_df_ctOut" text="Feldausfahrt"/>
+        <text name="vtpas_tm_df_asmOn" text="ASM-Steuerung ein"/>
+        <text name="vtpas_tm_df_asmOff" text="ASM-Steuerung aus"/>
+        <text name="vtpas_tm_df_asmAngle" text="Lenkeinschlag"/>
+        <text name="vtpas_tm_df_asmSpeed" text="Geschwindigkeit"/>
+        <text name="vtpas_tm_df_asm4wd" text="Allrad"/>
+        <text name="vtpas_tm_df_asmDiff" text="Diff.-Sperre"/>
+        <text name="vtpas_tm_df_asmSteer" text="Aktueller Lenkeinschlag"/>
+        <text name="vtpas_tm_df_valves" text="Steuergeräte"/>
+        <text name="vtpas_tm_df_valveHint" text="Tippen: Funktionen des Steuergeräts"/>
+        <text name="vtpas_tm_df_valveHint2" text="Steuergerät unten wählen"/>
+        <text name="vtpas_tm_df_themeAuto" text="Auto (Tag / Nacht)"/>
+        <text name="vtpas_tm_df_themeLight" text="Hell"/>
+        <text name="vtpas_tm_df_themeDark" text="Dunkel"/>
+        <text name="vtpas_tm_jd_aDamage" text="Verschleiß: %d %%"/>
+        <text name="vtpas_tm_jd_aDef" text="AdBlue niedrig: %d %%"/>
+        <text name="vtpas_tm_jd_aFuel" text="Kraftstoff niedrig: %d %%"/>
+        <text name="vtpas_tm_jd_aNone" text="Keine Warnungen"/>
+        <text name="vtpas_tm_jd_aRtk" text="RTK-Signal verloren"/>
+        <text name="vtpas_tm_jd_aSlip" text="Hoher Schlupf: %d %%"/>
+        <text name="vtpas_tm_jd_aTank" text="Tank fast voll"/>
+        <text name="vtpas_tm_jd_aTemp" text="Motor heiß: %d °C"/>
+        <text name="vtpas_tm_jd_aToolEmpty" text="%s fast leer"/>
+        <text name="vtpas_tm_jd_alerts" text="Warnungen"/>
+        <text name="vtpas_tm_jd_area" text="Fläche"/>
+        <text name="vtpas_tm_jd_cArea" text="Bearbeitete Fläche"/>
+        <text name="vtpas_tm_jd_cDist" text="Strecke"/>
+        <text name="vtpas_tm_jd_cDone" text="Feld erledigt"/>
+        <text name="vtpas_tm_jd_cEngine" text="Motor"/>
+        <text name="vtpas_tm_jd_cFarm" text="Betrieb / Feld"/>
+        <text name="vtpas_tm_jd_cField" text="Feld"/>
+        <text name="vtpas_tm_jd_cFuel" text="Kraftstoffverbrauch"/>
+        <text name="vtpas_tm_jd_cFuelH" text="Verbrauch"/>
+        <text name="vtpas_tm_jd_cFuelHa" text="Kraftstoff / ha"/>
+        <text name="vtpas_tm_jd_cHours" text="Motorstunden"/>
+        <text name="vtpas_tm_jd_cMachine" text="Maschine"/>
+        <text name="vtpas_tm_jd_cNext" text="Nächster Auftrag"/>
+        <text name="vtpas_tm_jd_cRate" text="Flächenleistung"/>
+        <text name="vtpas_tm_jd_cReset" text="Zurücksetzen"/>
+        <text name="vtpas_tm_jd_cRpm" text="Motordrehzahl"/>
+        <text name="vtpas_tm_jd_cTask" text="Aktueller Auftrag"/>
+        <text name="vtpas_tm_jd_cTime" text="Zeit"/>
+        <text name="vtpas_tm_jd_cam" text="Kamera"/>
+        <text name="vtpas_tm_jd_camNone" text="Keine Kamera"/>
+        <text name="vtpas_tm_jd_count" text="Arbeitsmonitor"/>
+        <text name="vtpas_tm_jd_cpMenu" text="Courseplay-Menü"/>
+        <text name="vtpas_tm_jd_fHarvest" text="Ernte"/>
+        <text name="vtpas_tm_jd_forage" text="Feldhäcksler"/>
+        <text name="vtpas_tm_jd_fuel" text="Kraftstoff"/>
+        <text name="vtpas_tm_jd_guide" text="Spurführung"/>
+        <text name="vtpas_tm_jd_hDown" text="Senkgeschwindigkeit"/>
+        <text name="vtpas_tm_jd_hFloat" text="Schwimmstellung"/>
+        <text name="vtpas_tm_jd_hMix" text="Lage- / Zugkraftregelung"/>
+        <text name="vtpas_tm_jd_hPos" text="Position"/>
+        <text name="vtpas_tm_jd_hSlip" text="Schlupfgrenze"/>
+        <text name="vtpas_tm_jd_hUp" text="Hubgeschwindigkeit"/>
+        <text name="vtpas_tm_jd_hUpper" text="Obere Grenze"/>
+        <text name="vtpas_tm_jd_hitch" text="Kraftheber"/>
+        <text name="vtpas_tm_jd_hitchF" text="Frontkraftheber"/>
+        <text name="vtpas_tm_jd_hitchR" text="Heckkraftheber"/>
+        <text name="vtpas_tm_jd_iso" text="ISOBUS VT"/>
+        <text name="vtpas_tm_jd_kAutoTrac" text="AutoTrac"/>
+        <text name="vtpas_tm_jd_kFlag" text="Markierungen"/>
+        <text name="vtpas_tm_jd_kGuide" text="Spurführung"/>
+        <text name="vtpas_tm_jd_kHelp" text="Hilfe"/>
+        <text name="vtpas_tm_jd_kIso" text="ISOBUS VT"/>
+        <text name="vtpas_tm_jd_kLine" text="Schnelle Spur"/>
+        <text name="vtpas_tm_jd_kMenu" text="Menü"/>
+        <text name="vtpas_tm_jd_kSC" text="TB-Automatik"/>
+        <text name="vtpas_tm_jd_kSection" text="Teilbreiten"/>
+        <text name="vtpas_tm_jd_kSetup" text="Einstellungen"/>
+        <text name="vtpas_tm_jd_kSound" text="Ton"/>
+        <text name="vtpas_tm_jd_kSwap" text="Spur wechseln"/>
+        <text name="vtpas_tm_jd_kWork" text="Arbeit"/>
+        <text name="vtpas_tm_jd_lAll" text="Alle an"/>
+        <text name="vtpas_tm_jd_lBeacon" text="Rundumleuchte"/>
+        <text name="vtpas_tm_jd_lField" text="Feld"/>
+        <text name="vtpas_tm_jd_lHazard" text="Warnblinker"/>
+        <text name="vtpas_tm_jd_lNone" text="Alle aus"/>
+        <text name="vtpas_tm_jd_lRoad" text="Straße"/>
+        <text name="vtpas_tm_jd_lights" text="Beleuchtung"/>
+        <text name="vtpas_tm_jd_mSc" text="Teilbreiten"/>
+        <text name="vtpas_tm_jd_mSet" text="Einstellungen"/>
+        <text name="vtpas_tm_jd_map" text="Karte"/>
+        <text name="vtpas_tm_jd_maxRpm" text="Max. Drehzahl"/>
+        <text name="vtpas_tm_jd_mnApps" text="Anwendungen"/>
+        <text name="vtpas_tm_jd_mnMachine" text="Maschine"/>
+        <text name="vtpas_tm_jd_mnSystem" text="System"/>
+        <text name="vtpas_tm_jd_next" text="Weiter"/>
+        <text name="vtpas_tm_jd_off" text="Aus"/>
+        <text name="vtpas_tm_jd_on" text="Ein"/>
+        <text name="vtpas_tm_jd_power" text="Leistung"/>
+        <text name="vtpas_tm_jd_pto" text="Zapfwelle"/>
+        <text name="vtpas_tm_jd_ptoAuto" text="ZW-Automatik"/>
+        <text name="vtpas_tm_jd_ptoEco" text="Zapfwellendrehzahl"/>
+        <text name="vtpas_tm_jd_ptoExt" text="Außenbedienung"/>
+        <text name="vtpas_tm_jd_ptoF" text="Front-ZW"/>
+        <text name="vtpas_tm_jd_ptoOff" text="Aus über"/>
+        <text name="vtpas_tm_jd_ptoOn" text="Ein unter"/>
+        <text name="vtpas_tm_jd_ptoR" text="Heck-ZW"/>
+        <text name="vtpas_tm_jd_ptoReset" text="Standard"/>
+        <text name="vtpas_tm_jd_ptoScv" text="Steuergeräte"/>
+        <text name="vtpas_tm_jd_rbCourse" text="Kurs"/>
+        <text name="vtpas_tm_jd_rbCover" text="Abdeckung"/>
+        <text name="vtpas_tm_jd_rbCp" text="Courseplay"/>
+        <text name="vtpas_tm_jd_rbLane" text="Spur"/>
+        <text name="vtpas_tm_jd_rbRec" text="Aufzeichnen"/>
+        <text name="vtpas_tm_jd_rbView" text="Ansicht"/>
+        <text name="vtpas_tm_jd_sc" text="Teilbreitenschaltung"/>
+        <text name="vtpas_tm_jd_scBoom" text="Gestänge"/>
+        <text name="vtpas_tm_jd_scDelays" text="Ein- / Ausschaltzeit"/>
+        <text name="vtpas_tm_jd_scOverlap" text="Überlappung"/>
+        <text name="vtpas_tm_jd_set" text="AutoSwitch-Einstellungen"/>
+        <text name="vtpas_tm_jd_setMain" text="Allgemein"/>
+        <text name="vtpas_tm_jd_slip" text="Schlupf"/>
+        <text name="vtpas_tm_jd_speed" text="Geschwindigkeit"/>
+        <text name="vtpas_tm_jd_tbPan" text="Verschieben"/>
+        <text name="vtpas_tm_jd_tbWork" text="Arbeit"/>
+        <text name="vtpas_tm_jd_tbZoomIn" text="Zoom +"/>
+        <text name="vtpas_tm_jd_tbZoomOut" text="Zoom -"/>
+        <text name="vtpas_tm_jd_trFwd" text="Vorwärts"/>
+        <text name="vtpas_tm_jd_trGear" text="Gang"/>
+        <text name="vtpas_tm_jd_trMode" text="Getriebemodus"/>
+        <text name="vtpas_tm_jd_trRev" text="Rückwärts"/>
+        <text name="vtpas_tm_jd_trac" text="Traktor"/>
+        <text name="vtpas_tm_jd_trans" text="Getriebe"/>
+        <text name="vtpas_tm_jd_vApply" text="Tippen = betätigen"/>
+        <text name="vtpas_tm_jd_vFlow" text="Durchfluss"/>
+        <text name="vtpas_tm_jd_vFns" text="Funktionen"/>
+        <text name="vtpas_tm_jd_vHold" text="Dauerbetrieb"/>
+        <text name="vtpas_tm_jd_vInf" text="Dauer"/>
+        <text name="vtpas_tm_jd_vMode" text="Modus"/>
+        <text name="vtpas_tm_jd_vNoTimer" text="Ohne Zeit"/>
+        <text name="vtpas_tm_jd_vTimer" text="Zeitsteuerung"/>
+        <text name="vtpas_tm_jd_vValve" text="Steuergerät"/>
+        <text name="vtpas_tm_jd_valves" text="Steuergeräte"/>
+        <text name="vtpas_tm_jd_xte" text="Abweichung"/>
+        <text name="vtpas_tm_jd_cTimeW" text="Arbeitszeit"/>
+        <text name="vtpas_tm_jd_cFuelW" text="Kraftstoff bei Arbeit"/>
+        <text name="vtpas_tm_jd_cDistW" text="Strecke bei Arbeit"/>
+        <text name="vtpas_tm_jd_cAvgSpd" text="Durchschnittsgeschwindigkeit"/>
+        <text name="vtpas_tm_jd_cWorkSpd" text="Arbeitsgeschwindigkeit"/>
+        <text name="vtpas_tm_jd_cAvgFuelH" text="Mittlerer Verbrauch"/>
+    </texts>
+</l10n>
